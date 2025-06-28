@@ -2,6 +2,14 @@
 
 This repository contains inference scripts for various text classification tasks using Qwen2.5 models fine-tuned on Vietnamese datasets.
 
+# Results
+
+Benchmark results on Vietnamese datasets using Qwen2.5 fine-tuned models:
+
+| MNLI   | QNLI   | WNLI   | SST-2  | VSFC   | VSMEC  | MRPC   | QQP    | CoLA   | VTOC   |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| 0.4913 | 0.8556 | 0.3239 | 0.8532 | 0.9242 | 0.4490 | 0.7652 | 0.9046 | 0.6961 | 0.7013 |
+
 ## Setup
 
 1. **Install Dependencies**
