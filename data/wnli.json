@@ -1,0 +1,428 @@
+[
+    {
+        "sentence1": "Ống thoát nước bị tắc do tóc. Nó phải được làm sạch.",
+        "sentence2": "Tóc phải được làm sạch.",
+        "label": 0,
+        "idx": 0
+    },
+    {
+        "sentence1": "Jane gõ cửa phòng Susan nhưng cô ấy không trả lời.",
+        "sentence2": "Susan không trả lời.",
+        "label": 1,
+        "idx": 1
+    },
+    {
+        "sentence1": "Beth không tức giận với Sally, người đã ngắt lời cô, vì cô dừng lại và đếm đến mười.",
+        "sentence2": "Sally dừng lại và đếm đến mười.",
+        "label": 0,
+        "idx": 2
+    },
+    {
+        "sentence1": "Chẳng ai vào Facebook để buồn và cô đơn cả. Nhưng một nghiên cứu mới của nhà tâm lý học George Lincoln thuộc Đại học Wisconsin lập luận rằng đó chính xác là điều khiến chúng ta cảm thấy.",
+        "sentence2": "Đó chính xác là cách Facebook khiến chúng ta cảm thấy.",
+        "label": 1,
+        "idx": 3
+    },
+    {
+        "sentence1": "Người đàn ông không thể nhấc con trai mình lên vì nó quá nặng.",
+        "sentence2": "Con trai nặng lắm.",
+        "label": 1,
+        "idx": 4
+    },
+    {
+        "sentence1": "Susan biết con trai của Ann bị tai nạn ô tô nên đã kể cho cô ấy nghe chuyện đó.",
+        "sentence2": "Ann đã kể với cô ấy về điều đó.",
+        "label": 0,
+        "idx": 5
+    },
+    {
+        "sentence1": "Khi Tommy làm rơi cây kem, Timmy cười khúc khích nên bố nhìn cậu nghiêm nghị.",
+        "sentence2": "Cha nhìn Timmy một cách nghiêm khắc.",
+        "label": 1,
+        "idx": 6
+    },
+    {
+        "sentence1": "Có một cây cột giữa tôi và sân khấu, và tôi không thể nhìn thấy xung quanh nó.",
+        "sentence2": "Tôi không thể nhìn thấy xung quanh cây cột.",
+        "label": 1,
+        "idx": 7
+    },
+    {
+        "sentence1": "Nhìn! Có một con cá tuế đang bơi ngay bên dưới con vịt đó! Tốt nhất là nên nhanh chóng rời khỏi nơi an toàn!",
+        "sentence2": "Con vịt tốt nhất nên nhanh chóng chạy trốn đến nơi an toàn!",
+        "label": 0,
+        "idx": 8
+    },
+    {
+        "sentence1": "Bernard, người đã không nói với quan chức chính phủ rằng anh ta chưa đủ 21 tuổi khi nộp đơn yêu cầu bồi thường nhà ở, không cho rằng mình đã làm bất cứ điều gì không trung thực. Tuy nhiên, bất cứ ai biết rằng anh ta 19 tuổi đều có thể tước bỏ quyền lợi của anh ta.",
+        "sentence2": "Bất cứ ai biết rằng anh ấy 19 tuổi đều có thể tước bỏ quyền sở hữu của anh ấy khỏi bất kỳ ai.",
+        "label": 0,
+        "idx": 9
+    },
+    {
+        "sentence1": "Khi những người ủng hộ dự luật đến tòa thị chính, họ ngạc nhiên khi thấy căn phòng đầy rẫy những người phản đối. Họ chiếm đa số.",
+        "sentence2": "Các nhà tài trợ chiếm đa số.",
+        "label": 0,
+        "idx": 10
+    },
+    {
+        "sentence1": "Tôi không thể chặt cây đó bằng chiếc rìu đó; nó quá dày.",
+        "sentence2": "Cây dày quá.",
+        "label": 1,
+        "idx": 11
+    },
+    {
+        "sentence1": "Quả bóng lớn đã đâm xuyên qua bàn vì nó được làm bằng xốp.",
+        "sentence2": "Quả bóng lớn được làm bằng xốp.",
+        "label": 0,
+        "idx": 12
+    },
+    {
+        "sentence1": "Tôi đã cố gắng vẽ một bức tranh về một vườn cây ăn trái, với những quả chanh trên cây chanh, nhưng chúng trông giống bóng đèn hơn.",
+        "sentence2": "Những cây chanh mọc ra trông giống bóng đèn hơn.",
+        "label": 0,
+        "idx": 13
+    },
+    {
+        "sentence1": "Madonna sa thải huấn luyện viên vì ngủ với bạn trai.",
+        "sentence2": "Madonna ngủ với bạn trai.",
+        "label": 0,
+        "idx": 14
+    },
+    {
+        "sentence1": "Nếu kẻ lừa đảo thành công trong việc đánh lừa Sam thì anh ta sẽ kiếm được rất nhiều tiền.",
+        "sentence2": "Sam lẽ ra đã kiếm được rất nhiều tiền.",
+        "label": 0,
+        "idx": 15
+    },
+    {
+        "sentence1": "Luật sư hỏi nhân chứng một câu hỏi, nhưng anh ta miễn cưỡng nhắc lại.",
+        "sentence2": "Luật sư miễn cưỡng nhắc lại điều đó.",
+        "label": 1,
+        "idx": 16
+    },
+    {
+        "sentence1": "Mọi người đều thực sự yêu thích bánh quy bột yến mạch; chỉ có một số ít người thích bánh quy sô cô la chip. Lần tới, chúng ta nên làm ít hơn.",
+        "sentence2": "Chúng ta nên làm ít bánh quy bột yến mạch hơn.",
+        "label": 0,
+        "idx": 17
+    },
+    {
+        "sentence1": "Bob ngã gục trên vỉa hè. Ngay sau đó anh thấy Carl đến giúp đỡ. Anh ấy bị bệnh nặng.",
+        "sentence2": "Carl bị ốm nặng.",
+        "label": 0,
+        "idx": 18
+    },
+    {
+        "sentence1": "Ông Moncrieff đến thăm căn hộ sang trọng ở New York của Chester vì nghĩ rằng nó thuộc về con trai ông là Edward. Kết quả là ông Moncrieff đã quyết định hủy bỏ trợ cấp của Edward với lý do ông không cần hỗ trợ tài chính nữa.",
+        "sentence2": "Anh ấy không còn cần sự hỗ trợ tài chính của Chester nữa.",
+        "label": 0,
+        "idx": 19
+    },
+    {
+        "sentence1": "Tatyana biết rằng bà luôn thích phục vụ nhiều món ăn cho khách của mình. Bây giờ Tatyana nhìn bà ngoại ôm người mẹ nhỏ bé của Tatyana vào một cái ôm rộng, gầy gò rồi đẩy bà đến bàn, nhấc chiếc khăn choàng khỏi vai bà, đặt bà vào vị trí danh dự và nói đơn giản: \"Có rất nhiều.\"",
+        "sentence2": "Bà nội ôm người mẹ nhỏ bé của Tatyana vào một cái ôm rộng và gầy gò rồi đẩy Tatyana đến bàn.",
+        "label": 0,
+        "idx": 20
+    },
+    {
+        "sentence1": "Ann hỏi Mary thư viện đóng cửa lúc mấy giờ vì cô ấy đã quên mất.",
+        "sentence2": "Mary đã quên mất.",
+        "label": 0,
+        "idx": 21
+    },
+    {
+        "sentence1": "George nhận được vé xem vở kịch miễn phí nhưng anh ấy đã đưa chúng cho Eric, mặc dù anh ấy đặc biệt háo hức muốn xem nó.",
+        "sentence2": "Eric đặc biệt háo hức muốn xem nó.",
+        "label": 0,
+        "idx": 22
+    },
+    {
+        "sentence1": "Chiếc xe tải chở hàng lao qua xe buýt của trường vì nó chạy quá chậm.",
+        "sentence2": "Xe buýt của trường chạy rất chậm.",
+        "label": 1,
+        "idx": 23
+    },
+    {
+        "sentence1": "Jane đưa kẹo cho Joan vì cô ấy đói.",
+        "sentence2": "Jane đói.",
+        "label": 0,
+        "idx": 24
+    },
+    {
+        "sentence1": "Mark nghe thấy tiếng chân Steve bước xuống thang. Cánh cửa tiệm đóng lại sau lưng anh. Anh chạy tới nhìn ra ngoài cửa sổ.",
+        "sentence2": "Mark chạy ra ngoài cửa sổ nhìn ra ngoài.",
+        "label": 1,
+        "idx": 25
+    },
+    {
+        "sentence1": "Mặc dù họ chạy với tốc độ như nhau nhưng Sue đã đánh bại Sally vì cô ấy xuất phát quá tốt.",
+        "sentence2": "Sally đã có một khởi đầu tốt đẹp.",
+        "label": 0,
+        "idx": 26
+    },
+    {
+        "sentence1": "Fred là người duy nhất còn sống nhớ đến ông cố của tôi. Anh ấy là một người đàn ông đáng chú ý.",
+        "sentence2": "Fred là một người đàn ông đáng chú ý.",
+        "label": 1,
+        "idx": 27
+    },
+    {
+        "sentence1": "Trước đây, Larry luôn giúp đỡ bố trong công việc. Nhưng bây giờ ông không thể giúp được gì vì bố nói rằng ông chủ ở công ty đường sắt không muốn ai ngoài ông làm việc ở văn phòng.",
+        "sentence2": "Larry bây giờ không thể giúp anh ta.",
+        "label": 1,
+        "idx": 28
+    },
+    {
+        "sentence1": "George nhận được vé xem vở kịch miễn phí, nhưng anh ấy đã đưa chúng cho Eric vì anh ấy đặc biệt háo hức muốn xem nó.",
+        "sentence2": "Eric đặc biệt háo hức muốn xem nó.",
+        "label": 1,
+        "idx": 29
+    },
+    {
+        "sentence1": "Họ phát đi một thông báo, nhưng một chiếc tàu điện ngầm đã vào ga và tôi không thể nghe thấy gì.",
+        "sentence2": "Tôi không thể nghe thấy tiếng tàu điện ngầm.",
+        "label": 1,
+        "idx": 30
+    },
+    {
+        "sentence1": "Grant đã làm việc chăm chỉ để thu hoạch đậu để anh và gia đình có đủ thức ăn trong mùa đông năm đó. Henry, người bạn của anh, đã để anh xếp chúng vào nhà kho để phơi khô. Sau đó, anh và Tatyana sẽ bóc vỏ và nấu chúng cho bữa tối Chủ nhật của họ.",
+        "sentence2": "Sau đó, anh và Tatyana sẽ bóc vỏ và nấu chúng cho bữa tối Chủ nhật của đậu.",
+        "label": 0,
+        "idx": 31
+    },
+    {
+        "sentence1": "Beth không tức giận với Sally, người đã ngắt lời cô, vì cô đã dừng lại và xin lỗi.",
+        "sentence2": "Sally dừng lại và xin lỗi.",
+        "label": 1,
+        "idx": 32
+    },
+    {
+        "sentence1": "Có một cây cột giữa tôi và sân khấu, tôi không thể nhìn thấy nó.",
+        "sentence2": "Tôi không thể nhìn xung quanh sân khấu.",
+        "label": 1,
+        "idx": 33
+    },
+    {
+        "sentence1": "Những học sinh lớn hơn bắt nạt những học sinh nhỏ tuổi hơn nên chúng tôi đã giải cứu họ.",
+        "sentence2": "Chúng tôi đã giải cứu những học sinh lớn hơn.",
+        "label": 0,
+        "idx": 34
+    },
+    {
+        "sentence1": "Tôi chắc chắn rằng bản đồ của tôi sẽ hiển thị tòa nhà này; nó rất nổi tiếng",
+        "sentence2": "Tòa nhà rất nổi tiếng.",
+        "label": 1,
+        "idx": 35
+    },
+    {
+        "sentence1": "Tôi đã cố gắng vẽ một bức tranh về một vườn cây ăn quả với những quả chanh trên cây chanh, nhưng chúng trông giống những cột điện thoại hơn.",
+        "sentence2": "Những quả chanh trông giống cột điện thoại hơn.",
+        "label": 0,
+        "idx": 36
+    },
+    {
+        "sentence1": "Trước đây, Larry luôn giúp đỡ bố trong công việc. Nhưng bây giờ ông không thể giúp được gì vì bố nói rằng ông chủ ở công ty đường sắt không muốn ai ngoài ông làm việc ở văn phòng.",
+        "sentence2": "Bây giờ anh không thể giúp Larry.",
+        "label": 0,
+        "idx": 37
+    },
+    {
+        "sentence1": "Bernard, người đã không nói với quan chức chính phủ rằng anh ta chưa đủ 21 tuổi khi nộp đơn yêu cầu bồi thường nhà ở, không cho rằng mình đã làm bất cứ điều gì không trung thực. Tuy nhiên, bất cứ ai biết rằng anh ta 19 tuổi đều có thể tước bỏ quyền lợi của anh ta.",
+        "sentence2": "Bernard chưa đầy 21 tuổi khi nộp đơn yêu cầu bồi thường nhà ở.",
+        "label": 1,
+        "idx": 38
+    },
+    {
+        "sentence1": "Ống thoát nước bị tắc do tóc. Nó phải được làm sạch.",
+        "sentence2": "Cống thoát nước phải được làm sạch.",
+        "label": 1,
+        "idx": 39
+    },
+    {
+        "sentence1": "Ống thoát nước bị tắc do tóc. Nó phải được gỡ bỏ.",
+        "sentence2": "Ống thoát nước phải được loại bỏ.",
+        "label": 0,
+        "idx": 40
+    },
+    {
+        "sentence1": "Emma không chuyền bóng cho Janie dù cô ấy sơ hở.",
+        "sentence2": "Cô thấy Emma đã cởi mở.",
+        "label": 0,
+        "idx": 41
+    },
+    {
+        "sentence1": "John đang nghiên cứu trong thư viện thì nghe thấy một người đàn ông ngâm nga và huýt sáo. Anh ấy rất khó chịu.",
+        "sentence2": "John rất khó chịu.",
+        "label": 0,
+        "idx": 42
+    },
+    {
+        "sentence1": "Các ủy viên hội đồng thành phố đã từ chối cấp phép cho những người biểu tình vì họ ủng hộ bạo lực.",
+        "sentence2": "Những người biểu tình ủng hộ bạo lực.",
+        "label": 1,
+        "idx": 43
+    },
+    {
+        "sentence1": "Tôi không thể đặt cái nồi lên kệ vì nó quá cao.",
+        "sentence2": "Cái nồi quá cao.",
+        "label": 0,
+        "idx": 44
+    },
+    {
+        "sentence1": "Cảnh sát đã bắt giữ tất cả các thành viên của băng đảng. Họ đang cố gắng điều hành việc buôn bán ma túy trong khu phố.",
+        "sentence2": "Cảnh sát đang cố gắng điều hành hoạt động buôn bán ma túy trong khu vực lân cận.",
+        "label": 0,
+        "idx": 45
+    },
+    {
+        "sentence1": "Con mèo nằm bên hang chuột chờ chuột nhưng nó quá thận trọng.",
+        "sentence2": "Con chuột đã quá thận trọng.",
+        "label": 1,
+        "idx": 46
+    },
+    {
+        "sentence1": "Sam đã cố gắng vẽ một bức tranh về những người chăn cừu với những con cừu, nhưng cuối cùng họ lại trông giống những người chơi gôn hơn.",
+        "sentence2": "Cuối cùng, con cừu trông giống những người chơi gôn hơn.",
+        "label": 0,
+        "idx": 47
+    },
+    {
+        "sentence1": "Fred lấy tay che mắt vì gió thổi cát bay tứ tung. Anh mở chúng ra khi gió ngừng thổi.",
+        "sentence2": "Anh mở mắt khi gió ngừng thổi.",
+        "label": 1,
+        "idx": 48
+    },
+    {
+        "sentence1": "Cuối cùng, khi họ đã bình tĩnh lại một chút và về đến nhà, ông Farley đặt viên sỏi thần kỳ vào một chiếc két sắt. Một ngày nào đó họ có thể muốn sử dụng nó, nhưng thực sự bây giờ, họ còn mong muốn gì hơn nữa?",
+        "sentence2": "Một ngày nào đó họ có thể muốn sử dụng két sắt.",
+        "label": 0,
+        "idx": 49
+    },
+    {
+        "sentence1": "Con mèo nằm bên hang chuột chờ chuột nhưng nó quá thận trọng.",
+        "sentence2": "Con mèo đã quá thận trọng.",
+        "label": 0,
+        "idx": 50
+    },
+    {
+        "sentence1": "Bằng cách lăn lộn ở giường trên, Tatyana có thể nhìn qua mép giường và nhìn rõ mẹ mình. Cô ấy nhỏ bé, thẳng tắp và cứng nhắc biết bao trên chiếc giường bên dưới! Đôi mắt cô nhắm nghiền, nhưng Tatyana nghi ngờ liệu cô có ngủ không.",
+        "sentence2": "Mẹ cô bé nhỏ, thẳng tắp và cứng nhắc biết bao khi nằm ở chiếc giường bên dưới!",
+        "label": 1,
+        "idx": 51
+    },
+    {
+        "sentence1": "Fred lẽ ra phải chạy máy rửa chén, nhưng anh ấy lại trì hoãn việc đó vì muốn xem TV. Nhưng chương trình trở nên nhàm chán nên anh đổi ý và tắt nó đi.",
+        "sentence2": "Anh đổi ý và tắt máy rửa chén.",
+        "label": 0,
+        "idx": 52
+    },
+    {
+        "sentence1": "Bức vẽ của Sam được treo ngay phía trên bức của Tina và nó trông đẹp hơn nhiều khi đặt một bức khác bên dưới.",
+        "sentence2": "Bức vẽ của Tina trông đẹp hơn nhiều với bức vẽ khác bên dưới.",
+        "label": 0,
+        "idx": 53
+    },
+    {
+        "sentence1": "Bố nhìn xuống khuôn mặt bọn trẻ, lúc này thật bối rối và buồn bã. Thật tồi tệ khi họ phải từ chối rất nhiều thứ chỉ vì anh không đủ khả năng chi trả.",
+        "sentence2": "Anh ấy không đủ tiền mua những thứ đó.",
+        "label": 1,
+        "idx": 54
+    },
+    {
+        "sentence1": "Sam học tiếng Pháp với Adam vì anh ấy nói tiếng Pháp rất trôi chảy.",
+        "sentence2": "Sam được biết đến là người nói nó trôi chảy.",
+        "label": 0,
+        "idx": 55
+    },
+    {
+        "sentence1": "Các nhà báo đã phỏng vấn các ngôi sao của bộ phim mới. Họ rất kiên trì nên cuộc phỏng vấn kéo dài rất lâu.",
+        "sentence2": "Các nhà báo rất kiên trì nên cuộc phỏng vấn kéo dài rất lâu.",
+        "label": 1,
+        "idx": 56
+    },
+    {
+        "sentence1": "Họ phát đi một thông báo, nhưng một chiếc tàu điện ngầm đã vào ga và tôi không thể nghe thấy.",
+        "sentence2": "Tôi không thể nghe thấy tiếng tàu điện ngầm.",
+        "label": 0,
+        "idx": 57
+    },
+    {
+        "sentence1": "Fred và Alice có những chiếc áo khoác rất ấm nhưng chúng không đủ để chống chọi với cái lạnh ở Alaska.",
+        "sentence2": "áo khoác không đủ cho cái lạnh ở Alaska.",
+        "label": 1,
+        "idx": 58
+    },
+    {
+        "sentence1": "Người cha bế cậu bé đang ngủ trên tay.",
+        "sentence2": "Người cha bế cậu bé đang ngủ trên tay.",
+        "label": 1,
+        "idx": 59
+    },
+    {
+        "sentence1": "Madonna sa thải huấn luyện viên vì ngủ với bạn trai.",
+        "sentence2": "Cô ấy đã ngủ với bạn trai của huấn luyện viên.",
+        "label": 0,
+        "idx": 60
+    },
+    {
+        "sentence1": "Bố nhìn xuống khuôn mặt bọn trẻ, lúc này thật bối rối và buồn bã. Thật tồi tệ khi họ phải từ chối rất nhiều thứ chỉ vì anh không đủ khả năng chi trả.",
+        "sentence2": "Anh ấy không đủ tiền nuôi bọn trẻ.",
+        "label": 0,
+        "idx": 61
+    },
+    {
+        "sentence1": "Nếu kẻ lừa đảo thành công trong việc đánh lừa Sam thì anh ta sẽ kiếm được rất nhiều tiền.",
+        "sentence2": "Kẻ lừa đảo sẽ kiếm được rất nhiều tiền.",
+        "label": 1,
+        "idx": 62
+    },
+    {
+        "sentence1": "Ông Taylor là một người có tính khí thất thường và xu hướng chung của ông là nghĩ rằng David là một kẻ nghèo khó và bất cứ bước đi nào ông thực hiện theo bất kỳ hướng nào chỉ là một bằng chứng khác cho sự ngu ngốc bẩm sinh của ông.",
+        "sentence2": "Bất kỳ hướng đi nào của chính anh ta chỉ là một bằng chứng khác cho sự ngu ngốc bẩm sinh của David.",
+        "label": 1,
+        "idx": 63
+    },
+    {
+        "sentence1": "Sáng nay, Joey xây lâu đài cát trên bãi biển, cắm một lá cờ đồ chơi trên ngọn tháp cao nhất nhưng chiều nay gió đã đánh đổ nó.",
+        "sentence2": "Chiều nay gió đánh sập Lâu đài cát.",
+        "label": 0,
+        "idx": 64
+    },
+    {
+        "sentence1": "Trong cơn bão, cây đổ và đâm xuyên qua mái nhà tôi. Bây giờ tôi phải sửa nó lại.",
+        "sentence2": "Bây giờ tôi phải sửa mái nhà.",
+        "label": 1,
+        "idx": 65
+    },
+    {
+        "sentence1": "Tôi đổ nước từ chai vào cốc cho đến khi cạn sạch.",
+        "sentence2": "Cái chai đã trống rỗng.",
+        "label": 1,
+        "idx": 66
+    },
+    {
+        "sentence1": "Alice tìm bạn Jade trong đám đông. Vì cô ấy luôn đội một chiếc khăn xếp màu đỏ nên Alice nhanh chóng nhận ra cô ấy.",
+        "sentence2": "Vì Alice luôn đội khăn xếp màu đỏ nên Alice nhanh chóng nhận ra cô ấy.",
+        "label": 0,
+        "idx": 67
+    },
+    {
+        "sentence1": "Con chó đuổi theo con mèo, nó chạy lên cây. Nó đợi ở phía trên.",
+        "sentence2": "Con mèo đợi ở phía trên.",
+        "label": 1,
+        "idx": 68
+    },
+    {
+        "sentence1": "Đó là một buổi chiều mùa hè, con chó đang ngồi giữa bãi cỏ. Một lúc sau, nó đứng dậy và di chuyển đến chỗ dưới gốc cây vì trời nóng.",
+        "sentence2": "Chỗ dưới gốc cây rất nóng.",
+        "label": 0,
+        "idx": 69
+    },
+    {
+        "sentence1": "George nhận được vé xem vở kịch miễn phí, nhưng anh ấy đã đưa chúng cho Eric vì anh ấy không đặc biệt háo hức muốn xem nó.",
+        "sentence2": "Eric không đặc biệt háo hức muốn xem nó.",
+        "label": 0,
+        "idx": 70
+    }
+]

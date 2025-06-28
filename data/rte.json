@@ -1,0 +1,1664 @@
+[
+    {
+        "id": 0,
+        "label": 1,
+        "sentence1": "Dana Reeve, góa phụ của nam diễn viên Christopher Reeve, đã qua đời vì bệnh ung thư phổi ở tuổi 44, theo Christopher Reeve Foundation.",
+        "sentence2": "Christopher Reeve gặp tai nạn."
+    },
+    {
+        "id": 1,
+        "label": 0,
+        "sentence1": "Tuy nhiên, hiện nay chúng ta đang phát hiện ra rằng thuốc kháng sinh đang mất tác dụng đối với bệnh tật. Vi khuẩn gây bệnh đang biến đổi nhanh hơn chúng ta có thể tạo ra các loại kháng sinh mới để chống lại các biến thể mới.",
+        "sentence2": "Vi khuẩn đang chiến thắng trong cuộc chiến chống lại thuốc kháng sinh."
+    },
+    {
+        "id": 2,
+        "label": 1,
+        "sentence1": "Cairo hiện là nơi sinh sống của khoảng 15 triệu người - một dân số đang phát triển tạo ra khoảng 10.000 tấn rác mỗi ngày, gây áp lực lớn lên các dịch vụ công cộng. Trong 10 năm qua, chính phủ đã cố gắng hết sức để khuyến khích tư nhân đầu tư vào lĩnh vực rác thải, nhưng ước tính có khoảng 4.000 tấn rác thải bị bỏ lại mỗi ngày, bốc mùi khó chịu khi chờ người đến dọn. Thường thì người dân ở những khu dân cư nghèo nhất sẽ bị ảnh hưởng nặng nề nhất. Nhưng trong một số lĩnh vực họ đang chiến đấu trở lại. Ở Shubra, một trong những quận phía bắc của thành phố, người dân đã xuống đường trang bị chổi và chổi quét rác để dọn dẹp các khu vực công cộng vốn được sử dụng làm bãi rác công cộng.",
+        "sentence2": "15 triệu tấn rác thải ra hàng ngày ở Cairo."
+    },
+    {
+        "id": 3,
+        "label": 1,
+        "sentence1": "Cộng đồng người Amish ở Pennsylvania, với số lượng khoảng 55.000 người, sống theo lối sống nông nghiệp, tránh xa những tiến bộ công nghệ như điện và ô tô. Và nhiều người nói lối sống thiển cận khiến họ có cảm giác được bảo vệ khỏi bạo lực của xã hội Mỹ. Nhưng khi cư dân tập trung gần trường học, một số mặc trang phục truyền thống và đến bằng xe ngựa kéo, họ nói rằng cảm giác an toàn đã bị phá vỡ. Jake King, 56 tuổi, một người làm đèn lồng Amish, người biết một số gia đình có con bị bắn, cho biết: “Nếu ai đó chộp lấy và muốn làm điều gì đó ngu ngốc, thì không có khoảng cách nào có thể ngăn cản họ”.",
+        "sentence2": "Pennsylvania có cộng đồng người Amish lớn nhất ở Hoa Kỳ"
+    },
+    {
+        "id": 4,
+        "label": 0,
+        "sentence1": "Các lực lượng an ninh được đặt trong tình trạng báo động cao sau một chiến dịch bầu cử trong đó hơn 1.000 người, trong đó có 7 ứng cử viên bầu cử, đã thiệt mạng.",
+        "sentence2": "Lực lượng an ninh đã được đặt trong tình trạng báo động cao sau khi một chiến dịch bị hủy hoại bởi bạo lực."
+    },
+    {
+        "id": 5,
+        "label": 0,
+        "sentence1": "Năm 1979, các nhà lãnh đạo đã ký hiệp ước hòa bình Ai Cập-Israel trên bãi cỏ của Nhà Trắng. Cả Tổng thống Begin và Sadat đều nhận được giải Nobel Hòa bình cho công việc của họ. Hai quốc gia đã tận hưởng mối quan hệ hòa bình cho đến ngày nay.",
+        "sentence2": "Hiệp định hòa bình Israel-Ai Cập được ký kết vào năm 1979."
+    },
+    {
+        "id": 6,
+        "label": 0,
+        "sentence1": "ca sĩ kiêm diễn viên Britney Spears, 24 tuổi, đã điền vào các giấy tờ tại Tòa Thượng thẩm Quận Los Angeles để ly dị chồng cô là Kevin Federline, 28 tuổi. Người phát ngôn của tòa án, Kathy Roberts tuyên bố rằng các giấy tờ đã viện dẫn những khác biệt không thể hòa giải\" là lý do dẫn đến việc ly hôn và theo tòa án, họ đã ly thân hợp pháp kể từ thứ Hai, ngày 6 tháng 11, cùng ngày mà Spears xuất hiện trong chương trình Late Night with David Letterman.",
+        "sentence2": "Spears sẽ ly hôn với Kevin Federline."
+    },
+    {
+        "id": 7,
+        "label": 0,
+        "sentence1": "Sau khi đấu thầu thành công để mang Ryder Cup 2010 đến Wales, Hội đồng Du lịch Wales đã lãng phí rất ít thời gian trong công việc vận hành để đảm bảo rằng những lợi ích tích lũy được từ sự kiện này được cảm nhận trên khắp đất nước.",
+        "sentence2": "Xứ Wales đăng cai Ryder Cup 2010."
+    },
+    {
+        "id": 8,
+        "label": 0,
+        "sentence1": "Steve Jobs đã bị Sculley và các giám đốc điều hành khác của Apple tấn công vì không cung cấp đủ các sản phẩm mới hấp dẫn và đã từ chức khỏi công ty vài tuần sau đó.",
+        "sentence2": "Steve Jobs đã làm việc cho Apple."
+    },
+    {
+        "id": 9,
+        "label": 0,
+        "sentence1": "Theo truyền thống, Brahui của bộ tộc Raisani chịu trách nhiệm về luật pháp và trật tự trong khu vực Pass. Bộ lạc này vẫn còn sống ở Balochistan ngày nay ở Pakistan.",
+        "sentence2": "Bộ lạc Raisani cư trú ở Pakistan."
+    },
+    {
+        "id": 10,
+        "label": 0,
+        "sentence1": "Tổ chức viện trợ nhân đạo quốc tế, Bác sĩ không biên giới/Medecins Sans Frontieres (MSF), tiếp tục điều trị cho các nạn nhân bị bạo hành ở tất cả các địa điểm mà tổ chức này hiện diện ở Darfur.",
+        "sentence2": "Tổ chức Bác sĩ Không Biên giới là một tổ chức viện trợ quốc tế."
+    },
+    {
+        "id": 11,
+        "label": 1,
+        "sentence1": "Trong một cái bát, đánh trứng và đường cho đến khi hòa quyện hoàn toàn và nổi bọt.",
+        "sentence2": "Trong một cái bát, đánh trứng, đường và vani cho đến khi có màu nhạt."
+    },
+    {
+        "id": 12,
+        "label": 1,
+        "sentence1": "Tại Nigeria, cho đến nay là quốc gia đông dân nhất ở châu Phi cận Sahara, hơn 2,7 triệu người bị nhiễm HIV.",
+        "sentence2": "2,7 phần trăm những người bị nhiễm HIV sống ở Châu Phi."
+    },
+    {
+        "id": 13,
+        "label": 0,
+        "sentence1": "Một bồi thẩm đoàn dự kiến sẽ quyết định lần đầu tiên liệu Jack Kevorkian, nổi tiếng với biệt danh \"Tiến sĩ Tử thần\", có vi phạm lệnh cấm hỗ trợ tự tử của Michigan hay không, trong khi bang này tiếp tục vật lộn với vấn đề cho phép điều gì khi người bệnh muốn chấm dứt nỗi đau bằng cách kết liễu cuộc đời họ.",
+        "sentence2": "Jack Kevorkian là tên thật của \"Tiến sĩ Thần chết\"."
+    },
+    {
+        "id": 14,
+        "label": 0,
+        "sentence1": "Lấy gã khổng lồ sản phẩm tiêu dùng Procter and Gamble làm ví dụ. Ngay cả với ngân sách Nghiên cứu và Phát triển trị giá 1,8 tỷ USD, nó vẫn quản lý 500 quan hệ đối tác tích cực mỗi năm, nhiều trong số đó là với các công ty nhỏ.",
+        "sentence2": "Procter and Gamble chi 1,8 tỷ USD cho Nghiên cứu và Phát triển."
+    },
+    {
+        "id": 15,
+        "label": 1,
+        "sentence1": "Những người lính Hoa Kỳ đã chết và đồ đạc của họ đã được sơ tán đến Nhật Bản và sau đó được vận chuyển về nhà trong các thùng chứa lạnh để an táng tại Hoa Kỳ",
+        "sentence2": "Quân đội Mỹ sơ tán công dân Mỹ."
+    },
+    {
+        "id": 16,
+        "label": 1,
+        "sentence1": "Một nghiên cứu cho thấy những con chuột được cho uống một chất có trong rượu vang đỏ sống lâu hơn mặc dù có chế độ ăn nhiều chất béo.",
+        "sentence2": "Những con chuột được nuôi bằng rượu vang đỏ sống lâu hơn mặc dù chế độ ăn nhiều chất béo."
+    },
+    {
+        "id": 17,
+        "label": 0,
+        "sentence1": "Charles de Gaulle qua đời năm 1970 ở tuổi tám mươi. Do đó, ông đã năm mươi tuổi khi, với tư cách là một sĩ quan vô danh gần đây được thăng cấp (tạm thời) là lữ đoàn trưởng, ông đã thực hiện bài phát biểu nổi tiếng của mình từ London bác bỏ việc Pháp đầu hàng Đức Quốc xã sau sự thất bại vào tháng 5-tháng 6 năm 1940.",
+        "sentence2": "Charles de Gaulle qua đời năm 1970."
+    },
+    {
+        "id": 18,
+        "label": 0,
+        "sentence1": "Cầu thủ tuổi teen Wayne Rooney đã đưa đội tuyển Anh vào tứ kết Euro 2004 với hai bàn thắng trong trận thua Croatia 4-2 hôm thứ Hai và họ đã lọt vào vòng 8 đội gần nhất bởi nhà vô địch Pháp đã đánh bại Thụy Sĩ 3-1.",
+        "sentence2": "Pháp tham dự Euro 2004."
+    },
+    {
+        "id": 19,
+        "label": 1,
+        "sentence1": "Fujimori cáo buộc rằng vào ngày 26 tháng 1 năm 1995, Ecuador đã nổ phát súng đầu tiên, một cáo buộc đã bị lãnh đạo Ecuador, Sixto Duran-Ballen bác bỏ. Có thể đoán trước, mỗi bên đều đổ lỗi cho bên kia vì đã gây ra cuộc xung đột năm 1995, giống như mỗi bên đổ lỗi cho bên kia vì đã kích động cuộc chiến tranh biên giới năm 1941, khi Peru chiếm hầu hết 120.000 dặm vuông trong cuộc tranh chấp giữa hai nước.",
+        "sentence2": "Tổng thống Fujimori tái đắc cử năm 1995."
+    },
+    {
+        "id": 20,
+        "label": 0,
+        "sentence1": "Chiếc trâm bằng bạch kim, kim cương và sapphire của Hepburn được ước tính chỉ có giá 20.000 đô la, nhưng được bán với giá 120.000 đô la, gấp sáu lần giá ước tính của nó.",
+        "sentence2": "Chiếc trâm kim cương và sapphire của Hepburn được bán với giá 120.000 USD."
+    },
+    {
+        "id": 21,
+        "label": 0,
+        "sentence1": "Huckaby đã tự nguyện nộp mình để thẩm vấn vào tối thứ Sáu tại đồn cảnh sát Tracy, và bị bắt chưa đầy sáu giờ sau đó. Cô ấy hiện đang cư trú trong Nhà tù Hạt San Joaquin mà không bị ràng buộc, chờ phiên điều trần buộc tội vào thứ Ba. Vào ngày 6 tháng 4, thi thể của Sandra Cantu được phát hiện nhét trong vali của người phụ nữ 28 tuổi dưới đáy một cái ao cách nhà cô vài dặm. Hai người là hàng xóm trong Công viên nhà di động Orchard Estates và cô con gái 5 tuổi của Huckaby thường chơi với Cantu. Kết quả khám nghiệm tử thi vẫn đang chờ xử lý.",
+        "sentence2": "Huckaby bị buộc tội giết Sandra Cantu."
+    },
+    {
+        "id": 22,
+        "label": 0,
+        "sentence1": "CAMDEN, NJ (Reuters) – Ba anh em Hồi giáo từ Albania đã bị kết án tù chung thân hôm thứ Ba vì âm mưu giết lính Mỹ tại căn cứ quân sự Fort Dix, mà các công tố viên cho biết đã được truyền cảm hứng từ ý tưởng thánh chiến chống lại Hoa Kỳ. Những người đàn ông, Dritan Duka, 30 tuổi, Shain Duka, 28 tuổi và Eljvir Duka, 25 tuổi, đều là những người nhập cư bất hợp pháp, mỗi người đều bị kết án chung thân mà không có khả năng được ân xá. Ba người điều hành một doanh nghiệp lợp mái ở Cherry Hill, NJ, nằm trong số năm người Hồi giáo sinh ra ở nước ngoài bị kết án vào tháng 12 vì lên kế hoạch tấn công căn cứ, cách Philadelphia khoảng 40 dặm về phía đông. Cuộc tấn công không bao giờ được thực hiện.",
+        "sentence2": "Eljvir Duka đến từ Albania."
+    },
+    {
+        "id": 23,
+        "label": 0,
+        "sentence1": "Một số món đồ mà anh ấy bán đấu giá trong khoảng thời gian hai ngày đã được xuất hiện trên chương trình truyền hình thực tế The Osbournes của anh ấy, trong đó có cuộc sống gia đình với Sharon, Ozzy và hai đứa con của họ. Trong số một số mặt hàng có giá cao hơn là một bàn bi-a được chế tạo theo phong cách Victoria được chạm khắc bằng gỗ óc chó đã quyên góp được 11.250 đô la, một bức tranh của Edourad Drouot đã thu được 10.500 đô la, một cặp kính tròn nổi tiếng của Ozzy đã quyên góp được 5.250 đô la và một chiếc giường cho chó của Elton John được bán với giá 2.375 đô la.",
+        "sentence2": "The Osbournes là tên của một chương trình thực tế có sự tham gia của Ozzy Osbourne."
+    },
+    {
+        "id": 24,
+        "label": 1,
+        "sentence1": "Theo các báo cáo, một người đàn ông phản đối Hội nghị thượng đỉnh G20 ở London, Anh đã chết sau khi gục ngã tại một trại biểu tình. Sky News cho biết người đàn ông ngã gục trên đường bên trong một khu trại gần Ngân hàng Anh và khi được tìm thấy, anh ta vẫn còn thở, nhưng những nỗ lực của nhân viên y tế để giải cứu anh ta đã thất bại và anh ta được tuyên bố là đã chết tại một bệnh viện khu vực. Tên của người này và nguyên nhân cái chết vẫn chưa được biết, nhưng một số người đã bị thương trước đó trong ngày. Sky News cũng đưa tin rằng mọi người đã ném chai vào anh ấy và chính quyền khi họ đưa anh ấy đến xe cấp cứu đang chờ sẵn.",
+        "sentence2": "Các văn phòng của Sky News nằm gần Ngân hàng Anh."
+    },
+    {
+        "id": 25,
+        "label": 1,
+        "sentence1": "Quân át chủ bài của San Diego Padres, Jake Peavy, đã bị thương trong trận thua 8-5 trước St. Louis Cardinals.",
+        "sentence2": "San Diego Padres đã thắng trong trận đấu với St. Louis Cardinals."
+    },
+    {
+        "id": 26,
+        "label": 1,
+        "sentence1": "Bất chấp giá thầu hoàn toàn bằng tiền mặt của CNOOC, Unocal cho biết khuyến nghị của họ với các cổ đông ủng hộ đề nghị trị giá 16,4 tỷ đô la tiền mặt và cổ phiếu từ Chevron vẫn có hiệu lực.",
+        "sentence2": "Unocal cho biết họ sẽ đánh giá lời đề nghị của CNOOC."
+    },
+    {
+        "id": 27,
+        "label": 0,
+        "sentence1": "Các lực lượng Hoa Kỳ đã giao tranh dữ dội sau khi quân nổi dậy tiến hành các cuộc tấn công đồng thời vào một số thành phố của Iraq, bao gồm Fallujah và Baqubah.",
+        "sentence2": "Fallujah và Baqubah là các thành phố của Iraq."
+    },
+    {
+        "id": 28,
+        "label": 1,
+        "sentence1": "Nhưng Huawei nói rằng việc mở rộng không hề dễ dàng - việc xin thị thực cho các kỹ sư Trung Quốc của họ làm việc trong các dự án dài hạn ở Ấn Độ là một thách thức đặc biệt.",
+        "sentence2": "Các kỹ sư Trung Quốc làm việc trong các dự án dài hạn ở Ấn Độ có thể dễ dàng xin được thị thực."
+    },
+    {
+        "id": 29,
+        "label": 1,
+        "sentence1": "Theo Becky Gibbons của Cảnh sát Tiểu bang New York và Giám đốc điều hành Quận Chris Collins ở Quận Erie, New York, tổng số người thiệt mạng là 50, bao gồm 45 hành khách, bốn thành viên phi hành đoàn và một người trên mặt đất, trong khi một phụ nữ và con gái trên mặt đất bị thương, gần rìa đất nông nghiệp, cách Sân bay Quốc tế Buffalo Niagara khoảng bảy dặm.",
+        "sentence2": "Một chuyến bay đi lại hàng ngày bị rơi ở Buffalo."
+    },
+    {
+        "id": 30,
+        "label": 1,
+        "sentence1": "Một tỷ lệ nhỏ người Ý của Nam Tư đã định cư ở Slovenia (tại cuộc điều tra dân số quốc gia năm 1991, khoảng 3000 cư dân của Slovenia tuyên bố họ là người dân tộc Ý).",
+        "sentence2": "Slovenia có 3.000 dân."
+    },
+    {
+        "id": 31,
+        "label": 0,
+        "sentence1": "Eric Harris và Dylan Klebold, học sinh lớp 12 tại trường ngoại ô Denver, đã kích nổ bom tự chế và nổ súng bằng súng ngắn, súng trường và súng ngắn bán tự động vào ngày 20 tháng 4 năm 1999. Họ giết chết một giáo viên và 12 học sinh và làm bị thương 23 người khác trước khi tự sát. Vụ thảm sát đã gây chấn động đất nước không giống ai. Đó là vụ tấn công trường học tồi tệ nhất trong lịch sử Hoa Kỳ vào thời điểm đó, và nó xảy ra sau nửa tá vụ khác. Nó được phát trên truyền hình trực tiếp, được hàng triệu người theo dõi. Và nó đại diện cho sự hủy diệt bạo lực đối với một ý tưởng được ấp ủ của người Mỹ: rằng các trường học ở vùng ngoại ô và vùng nông thôn là nơi trú ẩn của hòa bình và an toàn.",
+        "sentence2": "13 người đã bị giết bởi hai sinh viên vào năm 1999."
+    },
+    {
+        "id": 32,
+        "label": 1,
+        "sentence1": "Susan Boyle, 47 tuổi đến từ Blackburn, West Lothian ở Scotland, xuất hiện lần đầu trong chương trình vào tối thứ Bảy bằng cách nói rằng cô ấy \"chưa bao giờ kết hôn, chưa bao giờ được hôn\" và hiện đang thất nghiệp, sống một mình ở nhà với con mèo của cô ấy, Pebbles. Cô ấy nói rằng cô ấy muốn \"trở thành một ca sĩ chuyên nghiệp\", nhưng \"chưa bao giờ có cơ hội.\" Khán giả và giám khảo Amanda Holden, Simon Cowell và Piers Morgan, lần đầu tiên cười và thậm chí còn chọc ghẹo cô ấy. Boyle sau đó đã khiến ban giám khảo và khán giả choáng váng khi nhận được sự hoan nghênh nhiệt liệt với màn trình diễn I Dreamed a Dream từ vở nhạc kịch đoạt giải Les Misérables. Cowell gọi màn trình diễn của cô ấy là \"phi thường\" trong khi Morgan gọi đó là \"điều ngạc nhiên lớn nhất mà tôi có được trong ba năm tham gia chương trình này. Tôi bị sốc.\" Holden thậm chí còn thừa nhận rằng \"mọi người đều chống lại bạn [Boyle]\" và rằng \"tất cả chúng tôi đều rất hoài nghi.\"",
+        "sentence2": "Simon Cowell phải lòng Susan Boyle."
+    },
+    {
+        "id": 33,
+        "label": 1,
+        "sentence1": "Vào ngày 1 tháng 10 năm 2001, EU và các quốc gia khác đã giới thiệu tùy chọn cho chủ sở hữu vật nuôi đăng ký hộ chiếu Vật nuôi theo Chương trình Du lịch Vật nuôi (viết tắt là PETS), dành cho vật nuôi từ nước ngoài trở về Vương quốc Anh. Điều này thay thế hệ thống kiểm dịch bắt buộc 6 tháng cũ đối với tất cả vật nuôi trong nhà.",
+        "sentence2": "Năm 2001, EU đưa ra quy định kiểm dịch bắt buộc trong sáu tháng đối với tất cả vật nuôi trong nhà."
+    },
+    {
+        "id": 34,
+        "label": 0,
+        "sentence1": "Ngày dài nhất từng kéo dài. Lễ kỷ niệm 25 năm cuộc đổ bộ Normandy đầu tiên kéo dài ba ngày; ngày 50 sẽ trải ra trong một năm.",
+        "sentence2": "Lễ kỷ niệm 50 năm Cuộc đổ bộ Normandy kéo dài một năm."
+    },
+    {
+        "id": 35,
+        "label": 1,
+        "sentence1": "Nhà Tần (từ đó bắt nguồn tên Trung Quốc) đã thiết lập các ranh giới gần đúng và hệ thống hành chính cơ bản mà tất cả các triều đại tiếp theo phải tuân theo.",
+        "sentence2": "Tần Thủy Hoàng là Hoàng đế đầu tiên của Trung Quốc."
+    },
+    {
+        "id": 36,
+        "label": 1,
+        "sentence1": "Hands Across the Divide được thành lập vào tháng 3 năm 2001, và một trong những mục tiêu trước mắt của nó là thúc đẩy tự do liên lạc và liên lạc ngay lập tức giữa hai phần của Síp và để sớm đạt được giải pháp cho 'vấn đề Síp'.",
+        "sentence2": "Síp được chia thành hai phần vào tháng 3 năm 2001."
+    },
+    {
+        "id": 37,
+        "label": 0,
+        "sentence1": "Cuộc họp của IOC cũng sẽ xem xét các báo cáo do ban tổ chức Thế vận hội Mùa đông 1998 ở Nagano, Nhật Bản đệ trình; lần lượt là Thế vận hội Mùa hè 2000 tại Sydney, Úc và Thế vận hội Mùa đông 2002 tại Thành phố Salt Lake, Hoa Kỳ.",
+        "sentence2": "Trước Thành phố Salt Lake, Thế vận hội Mùa đông đã diễn ra ở Nagano."
+    },
+    {
+        "id": 38,
+        "label": 1,
+        "sentence1": "Cổ phiếu của Amazon đã giảm gần 4% sau kết quả khi công ty cho biết thu nhập hoạt động sẽ giảm tới 42% trong quý hai.",
+        "sentence2": "Cổ phiếu của Amazon giảm 4%."
+    },
+    {
+        "id": 39,
+        "label": 1,
+        "sentence1": "Hodler tuyên bố cũng có những điểm bất thường trong các chiến dịch do Atlanta tổ chức cho Thế vận hội Mùa hè 1996, Sydney cho Thế vận hội Mùa hè năm 2000 và Thành phố Salt Lake cho Thế vận hội Mùa đông 2002.",
+        "sentence2": "Trước Thành phố Salt Lake, Thế vận hội Mùa đông đã diễn ra ở Nagano."
+    },
+    {
+        "id": 40,
+        "label": 0,
+        "sentence1": "Một hợp chất trong sữa mẹ đã được phát hiện có thể tiêu diệt nhiều mụn cóc trên da, làm dấy lên hy vọng rằng nó cũng có thể chứng minh hiệu quả chống ung thư cổ tử cung và các bệnh chết người khác do cùng một loại vi-rút gây ra.",
+        "sentence2": "Sữa mẹ có thể giúp chống ung thư cổ tử cung."
+    },
+    {
+        "id": 41,
+        "label": 1,
+        "sentence1": "Kế hoạch được ông Dean công bố thay mặt cho Bộ trưởng Bộ Y tế và Dịch vụ Nhân sinh, Tommy Thompson, người vẫn đang hồi phục sau một tai nạn gần đây, tại Hội nghị Thượng đỉnh của Bộ trưởng về Công nghệ Thông tin Y tế với sự tham dự của nhiều nhà lãnh đạo quốc gia về hồ sơ sức khỏe điện tử.",
+        "sentence2": "Ông Dean là Bộ trưởng Bộ Y tế và Dịch vụ Nhân sinh."
+    },
+    {
+        "id": 42,
+        "label": 0,
+        "sentence1": "Alice Cooper, người sáng lập thể loại shock rock, nổi tiếng với những màn trình diễn đẫm máu trên sân khấu, đang thành lập một trung tâm Cơ đốc giáo dành cho những thanh niên có nguy cơ mắc bệnh ở Phoenix. Cooper, người đã tái sinh theo đạo Cơ đốc hơn 20 năm, đã quyên góp được 2 triệu đô la Mỹ cho trung tâm thông qua tổ chức từ thiện của mình, Quỹ Solid Rock, do Cooper thành lập vào năm 1995. \"The Rock\", tên gọi của trung tâm, dự kiến sẽ tiêu tốn 7,3 triệu đô la Mỹ và Cooper hy vọng rằng công việc xây dựng sẽ bắt đầu tại địa điểm, hiện là một vùng cỏ gần Đại học Grand Canyon, vào tháng 11.",
+        "sentence2": "Alice Cooper là một Cơ đốc nhân."
+    },
+    {
+        "id": 43,
+        "label": 0,
+        "sentence1": "Pibul Songgram là nhà độc tài quân sự thân Nhật của Thái Lan trong Thế chiến 2.",
+        "sentence2": "Pibul là nhà độc tài của Thái Lan."
+    },
+    {
+        "id": 44,
+        "label": 0,
+        "sentence1": "Là chỉ huy tàu vũ trụ cho Apollo XI, sứ mệnh hạ cánh có người lái đầu tiên trên Mặt Trăng, Armstrong là người đầu tiên đặt chân lên Mặt Trăng. \"Đó là một bước nhỏ của một người đàn ông, một bước nhảy vọt khổng lồ của nhân loại.\" Với những lời lịch sử này, giấc mơ của con người về các thời đại đã được thực hiện.",
+        "sentence2": "Neil Armstrong là người đầu tiên đặt chân lên Mặt trăng."
+    },
+    {
+        "id": 45,
+        "label": 1,
+        "sentence1": "Weber đã làm việc cho WABC trong 12 năm, xuất hiện trên các chương trình như Curtis và Kuby, cập nhật tin tức cho thính giả ở đầu và cuối mỗi giờ. Sau khi bị nhà đài cho thôi việc vào năm ngoái do thay đổi chương trình, anh ấy đang làm phóng viên tự do cho ABC News Radio, một mạng lưới quốc gia. Trong sự nghiệp của mình trước WABC, anh ấy đã làm việc cho KTLK và KMPC ở Los Angeles, California và KGO ở San Fransisco, California.",
+        "sentence2": "KTLK được đặt tại San Francisco."
+    },
+    {
+        "id": 46,
+        "label": 0,
+        "sentence1": "Nhà du hành vũ trụ người Nga Valery Polyakov đã lập kỷ lục về thời gian ở trong không gian liên tục lâu nhất, con số đáng kinh ngạc là 438 ngày, từ năm 1994 đến 1995.",
+        "sentence2": "Người Nga giữ kỷ lục ở lâu nhất trong không gian."
+    },
+    {
+        "id": 47,
+        "label": 1,
+        "sentence1": "Việc thu hoạch rong biển không được phép ở Puget Sound vì vai trò quan trọng của thảm thực vật biển trong việc cung cấp môi trường sống cho các loài quan trọng.",
+        "sentence2": "Thảm thực vật biển được thu hoạch."
+    },
+    {
+        "id": 48,
+        "label": 1,
+        "sentence1": "Ông trở thành trọng tài quyền anh vào năm 1964 và được biết đến nhiều nhất với quyết định chống lại Mike Tyson, trong trận đấu với Holyfield, khi Tyson cắn vào tai Holyfield.",
+        "sentence2": "Mike Tyson cắn tai Holyfield năm 1964."
+    },
+    {
+        "id": 49,
+        "label": 1,
+        "sentence1": "Nhóm soạn thảo hiến pháp mới của Iraq đã cân nhắc dành thêm thời gian để viết tài liệu vào Chủ nhật, nhưng có vẻ như vẫn phải đáp ứng thời hạn giữa tháng 8 dưới áp lực mạnh mẽ của Hoa Kỳ.",
+        "sentence2": "Vào Chủ nhật, các quan chức đã tranh luận về việc có nên trì hoãn thời hạn hoàn thành tài liệu vào tháng 8 để giúp họ có thêm thời gian xử lý các vấn đề khó khăn như vậy hay không."
+    },
+    {
+        "id": 50,
+        "label": 1,
+        "sentence1": "Ông cũng đề cập đến vụ bắt giữ \"bất hợp pháp\" vào ngày 31 tháng 5 đối với Giáo sư người Mexico Maria Eugenia Ochoa Garcia, người mà chính phủ Salvador cáo buộc có liên hệ với quân du kích Salvador.",
+        "sentence2": "Giáo sư Ochoa Garcia là thành viên của chính phủ Salvador."
+    },
+    {
+        "id": 51,
+        "label": 0,
+        "sentence1": "Núi Redoubt, một ngọn núi lửa ở Alaska, đã phun trào vào thứ Bảy, tạo ra những đám mây tro bụi cao hàng nghìn mét. Theo Cục Hàng không Liên bang, Sân bay Quốc tế Ted Stevens Anchorage đã phải đóng cửa sau khi tro bay đến sân bay. Jeremy Lindseth, phát ngôn viên của sân bay, cho biết chỉ một lượng nhỏ tro đến sân bay, nhưng đủ lớn để làm gián đoạn hoạt động, vì tro có thể gây ra sự cố động cơ cho máy bay. Anh ấy nói rằng anh ấy không chắc có bao nhiêu chuyến bay bị ảnh hưởng do vụ phun trào.",
+        "sentence2": "Sân bay Quốc tế Ted Stevens Anchorage do Jeremy Lindseth làm chủ."
+    },
+    {
+        "id": 52,
+        "label": 1,
+        "sentence1": "FMLN báo cáo với người dân của chúng tôi và người dân trên thế giới rằng vụ thảm sát chống lại Liên đoàn Công nhân Quốc gia Salvador [Fenastras] được thực hiện bởi Đại tá Elena Fuente, với tư cách là người đứng đầu đội tử thần bệnh hoạn của Lữ đoàn bộ binh số 1 của quân đội, để đáp trả cuộc tấn công quân sự của chúng tôi vào bộ tham mưu quân đội.",
+        "sentence2": "Fenastras bị FMLN tấn công."
+    },
+    {
+        "id": 53,
+        "label": 0,
+        "sentence1": "IBM đã đánh cắp các bí mật thương mại để sao chép hai chương trình của họ -- File-AID, một trình quản lý tệp và Abend-AID, một chương trình giúp người dùng xác định nguồn gốc của các trục trặc.",
+        "sentence2": "Bí mật thương mại đã bị đánh cắp."
+    },
+    {
+        "id": 54,
+        "label": 0,
+        "sentence1": "Nokia, Texas Instruments và các nhà sản xuất điện thoại di động hàng đầu khác đã chính thức khiếu nại lên Brussels rằng Qualcomm, nhà sản xuất chip di động của Mỹ, đã sử dụng không công bằng các bằng sáng chế của họ về công nghệ 3G.",
+        "sentence2": "Texas Instruments sản xuất điện thoại di động."
+    },
+    {
+        "id": 55,
+        "label": 1,
+        "sentence1": "Hai binh sĩ Anh đã bị bắt tại thành phố Basra, miền nam Iraq, làm bùng phát các cuộc đụng độ bên ngoài một đồn cảnh sát nơi họ đang bị giam giữ.",
+        "sentence2": "Hai chiếc xe tăng của Anh, được gửi đến đồn cảnh sát nơi những người lính đang bị giam giữ, đã bị đốt cháy trong các cuộc đụng độ."
+    },
+    {
+        "id": 56,
+        "label": 0,
+        "sentence1": "Cảnh sát ở thị trấn Amstetten, Hạ Áo đã bắt giữ một người đàn ông 73 tuổi bị cáo buộc đã nhốt con gái mình, hiện 42 tuổi, nhốt trong hầm của ngôi nhà ở Amstetten kể từ ngày 29 tháng 8 năm 1984. Người đàn ông, được cảnh sát xác định là Josef Fritzl, bị cáo buộc đã bắt đầu lạm dụng tình dục con gái của mình, tên là Elisabeth Fritzl, khi cô bé 11 tuổi, và sau đó cô đã có 7 đứa con. Một trong những đứa trẻ, một trong cặp song sinh sinh năm 1996, đã chết vì bị bỏ rơi ngay sau khi sinh và thi thể bị người cha đốt cháy.",
+        "sentence2": "Amstetten nằm ở Áo."
+    },
+    {
+        "id": 57,
+        "label": 1,
+        "sentence1": "Chẳng hạn như Microsoft, một trong những công ty phần mềm lớn nhất thế giới, ước tính đã mất hơn 500 triệu đô la vào năm ngoái vì hành vi trộm cắp phần mềm.",
+        "sentence2": "Microsoft sẽ chi 500 triệu đô la."
+    },
+    {
+        "id": 58,
+        "label": 1,
+        "sentence1": "Phòng ngừa ban đầu bệnh Alzheimer là không thể hiện nay.",
+        "sentence2": "Bệnh Alzheimer được điều trị bằng thuốc."
+    },
+    {
+        "id": 59,
+        "label": 0,
+        "sentence1": "Lễ Phục sinh đã kết thúc nhưng điều đó không có nghĩa là bạn không thể thưởng thức \"Ben-Hur\", ông tổ của các sử thi trong Kinh thánh và là người chiến thắng kỷ lục 11 giải Oscar, bao gồm cả phim hay nhất và nam diễn viên chính xuất sắc nhất (Charlton Heston trong vai chính).",
+        "sentence2": "Charlton Heston đóng vai chính trong bộ phim \"Ben-Hur\"."
+    },
+    {
+        "id": 60,
+        "label": 0,
+        "sentence1": "Và, mặc dù có những đề xuất ngược lại, Oracle sẽ bán phần mềm tài chính PeopleSoft và JD Edwards thông qua các kênh đại lý cho khách hàng mới.",
+        "sentence2": "Oracle bán phần mềm tài chính."
+    },
+    {
+        "id": 61,
+        "label": 1,
+        "sentence1": "Vương quốc Anh, Thổ Nhĩ Kỳ, các lực lượng thịnh vượng chung của Anh \"cũ\" (New Zealand, Aussies, Canada, Gurkhas, India), Đức, Ba Lan, Việt Nam, một số đơn vị từ Hoa Kỳ, Nga, Pháp, Trung Quốc (nhưng chỉ một số) Nhật Bản sẽ được đưa vào nhưng tôi không thoải mái khi sử dụng từ tôn trọng lính Nhật vì những lý do rõ ràng.",
+        "sentence2": "Gurkhas đến từ Nepal."
+    },
+    {
+        "id": 62,
+        "label": 1,
+        "sentence1": "Ssangyong Motor đã bị các chủ nợ tiếp quản sau khi sụp đổ vì nợ nần chồng chất trong cuộc khủng hoảng tài chính châu Á 1997-1998.",
+        "sentence2": "Khủng hoảng tài chính châu Á tiếp quản Ssangyong Motor"
+    },
+    {
+        "id": 63,
+        "label": 0,
+        "sentence1": "Theo các quan chức, João Bernardo Vieira, tổng thống Guinea-Bissau, đã bị bắn chết hôm thứ Hai tại cung điện của ông bởi những người lính nổi loạn. Zamora Induta, phát ngôn viên quân đội, nói với Agence France-Presse: “Tổng thống Vieira đã bị quân đội giết chết khi ông cố gắng chạy trốn khỏi ngôi nhà đang bị tấn công bởi một nhóm binh sĩ thân cận với tham mưu trưởng Tagme Na Waie vào sáng sớm hôm nay”.",
+        "sentence2": "Bernardo Vieira là tổng thống của Guinea-Bissau."
+    },
+    {
+        "id": 64,
+        "label": 1,
+        "sentence1": "Asprin, một loại thuốc rẻ tiền giúp bảo vệ những người sống sót sau cơn đau tim và đột quỵ khỏi những cơn đau tim và tử vong sau đó, thậm chí còn giúp giảm số ca tử vong xảy ra trong những giờ đầu tiên sau cơn đau tim.",
+        "sentence2": "Mọi người gặp phải tác dụng phụ khi dùng aspirin."
+    },
+    {
+        "id": 65,
+        "label": 1,
+        "sentence1": "Leakey tin rằng động vật hoang dã phong phú của Kenya, vốn là nền tảng cho ngành du lịch trị giá 450 triệu đô la (308 triệu bảng Anh) mỗi năm, có thể được quản lý một cách có lãi và bền vững.",
+        "sentence2": "Các nước châu Phi khuyến khích nuôi sống động vật để thu hút khách du lịch."
+    },
+    {
+        "id": 66,
+        "label": 0,
+        "sentence1": "Nếu không có hiệu ứng nhà kính tự nhiên, nhiệt độ của Trái đất sẽ vào khoảng 0 độ F (-18C) thay vì 57F (14C) hiện tại.",
+        "sentence2": "Hiệu ứng nhà kính làm thay đổi khí hậu toàn cầu."
+    },
+    {
+        "id": 67,
+        "label": 0,
+        "sentence1": "Hai Đài quan sát lớn của NASA, Kính viễn vọng Không gian Hubble và Đài quan sát tia X Chandra, đã cung cấp một cách độc lập những gì có thể là bằng chứng trực tiếp tốt nhất cho sự tồn tại của chân trời sự kiện, đặc điểm xác định của lỗ đen.",
+        "sentence2": "Hubble phát hiện lỗ đen."
+    },
+    {
+        "id": 68,
+        "label": 0,
+        "sentence1": "Đối với các công ty dược phẩm Hoa Kỳ, các cuộc cải cách chăm sóc sức khỏe sắp xảy ra hứa hẹn một kỷ nguyên tăng cường kiểm soát chi phí và kiểm soát giá cả.",
+        "sentence2": "Chính phủ Hoa Kỳ muốn giữ giá thuốc ở mức thấp."
+    },
+    {
+        "id": 69,
+        "label": 0,
+        "sentence1": "Giuliana Sgrena đã được giải thoát khỏi cảnh giam cầm ở Iraq ngày hôm nay. Nhà báo người Ý đã bị bắt cóc ở Baghdad đúng một tháng trước khi cô ấy đang báo cáo cho Il Manifesto. Tổ chức Thánh chiến Hồi giáo đã bắt cô làm con tin vào ngày 4 tháng 2 với yêu cầu Ý rút toàn bộ quân khỏi Iraq. Vào ngày 16 tháng 2, một đoạn video đã được phát hành với cảnh bà Sgrena rõ ràng đang quẫn trí cầu xin Ý rút quân khỏi Iraq. Tuy nhiên, bất chấp đoạn video, Thượng viện Ý đã bỏ phiếu gia hạn thời gian lưu trú của lực lượng quân đội ở Iraq.",
+        "sentence2": "Một nữ nhà báo bị bắt cóc ở Iraq."
+    },
+    {
+        "id": 70,
+        "label": 0,
+        "sentence1": "Khoảng 33,5 triệu người sống trong khu đô thị rộng lớn này. Tôi đoán rằng 95% trong số 5.000 công ty có vốn nước ngoài chính thức ở Nhật Bản có trụ sở tại Tokyo.",
+        "sentence2": "Khoảng 33,5 triệu người sống ở Tokyo."
+    },
+    {
+        "id": 71,
+        "label": 0,
+        "sentence1": "Bão nhiệt đới Irene vào ngày 11 tháng 8 năm 2005 lúc 16:15 UTC. Bão nhiệt đới Irene sẽ mạnh lên trong vài ngày tới, có thể mạnh lên thành cuồng phong đổ bộ vào bờ biển phía đông nước Mỹ, Trung tâm Bão quốc gia Miami, Florida cho biết trong một báo cáo hôm nay. Irene nằm cách Bermuda khoảng 975 km về phía nam-đông nam vào lúc 16:00 UTC hôm nay. Các nhà dự báo thời tiết nói rằng cơn bão hiện đang di chuyển theo hướng tây tây bắc với sức gió duy trì ở mức cao nhất là 40 dặm một giờ.",
+        "sentence2": "Bão Irene sắp đổ bộ vào bờ biển phía Đông nước Mỹ."
+    },
+    {
+        "id": 72,
+        "label": 1,
+        "sentence1": "Iqrar Abbasi, bác sĩ tại Bệnh viện Dân sự Karachi, cho biết một trong những người thiệt mạng là một đứa trẻ đi ngang qua cùng cha mẹ.",
+        "sentence2": "Một bác sĩ đã bị giết bởi cha mẹ của mình."
+    },
+    {
+        "id": 73,
+        "label": 0,
+        "sentence1": "Bảng chữ cái Cyrillic là bảng chữ cái được sử dụng cho một số ngôn ngữ Đông và Nam Slavơ; (Belarusian, Bulgari, Macedonian, Russian, Rusyn, Serbian, và Ukraine) và nhiều ngôn ngữ khác của Liên Xô cũ, Châu Á và Đông Âu. Nó cũng đã được sử dụng cho các ngôn ngữ khác trong quá khứ. Không phải tất cả các chữ cái trong bảng chữ cái Cyrillic đều được sử dụng trong mọi ngôn ngữ được viết bằng nó.",
+        "sentence2": "Cyrillic là một bảng chữ cái được sử dụng cho một số ngôn ngữ Xla-vơ, chẳng hạn như tiếng Nga."
+    },
+    {
+        "id": 74,
+        "label": 0,
+        "sentence1": "Vào tháng 11 năm 1990, tổng thống tuyên bố rằng các đảng chính trị đối lập sẽ được phép tổ chức vào năm 1991. Một số đảng mới nổi lên, bao gồm Phong trào Cộng hòa Dân chủ (MDR), Đảng Tự do (LP), Đảng Dân chủ và Xã hội (PSD) và Liên minh Bảo vệ nền Cộng hòa (CDR).",
+        "sentence2": "Một số đảng chính trị mới xuất hiện."
+    },
+    {
+        "id": 75,
+        "label": 1,
+        "sentence1": "Một Tòa án Tối cao Hoa Kỳ bị chia rẽ sâu sắc hôm thứ Năm cho biết phán quyết năm 2002 của họ rằng bồi thẩm đoàn chứ không phải thẩm phán phải áp dụng bản án tử hình chỉ áp dụng cho các trường hợp trong tương lai, một quyết định có thể ảnh hưởng đến hơn 100 tử tù.",
+        "sentence2": "Tòa án tối cao quyết định rằng chỉ có các thẩm phán mới có thể tuyên án tử hình."
+    },
+    {
+        "id": 76,
+        "label": 0,
+        "sentence1": "Disneyland của Châu Âu nằm cách Paris 20 dặm về phía đông. Euro Disney là một khu phức hợp khổng lồ với các khách sạn, nhà hàng, cửa hàng và một sân gôn gần đó ngoài công viên giải trí thực tế. Nó mang lại trải nghiệm tốt hơn nhiều so với người anh em Mỹ của nó nhờ những điều kỳ diệu của kỹ thuật hiện đại.",
+        "sentence2": "Euro-Disney là một Công viên Giải trí."
+    },
+    {
+        "id": 77,
+        "label": 1,
+        "sentence1": "Tình hình hỗn loạn đã xảy ra ở Bogota đêm qua, với vụ ám sát Thẩm phán Carlos Valencia, bắt đầu vào ngày 28 tháng 7 tại Medellin, khi những sát thủ được trả tiền bằng xe cơ giới đã sát hại Thẩm phán Maria Elena Diaz theo trật tự công cộng thứ ba.",
+        "sentence2": "Công lý Carlos Valencia đã bị giết ở Medellin."
+    },
+    {
+        "id": 78,
+        "label": 1,
+        "sentence1": "Sinh viên y khoa bị buộc tội giết một nhân viên mát xa khiêu dâm mà anh ta gặp trên Craigslist đang chìm trong khoản nợ vay sinh viên hơn 100.000 USD và khánh kiệt đến mức không đủ khả năng chi trả cho luật sư, theo hồ sơ của tòa án. Philip Markoff, 23 tuổi, sinh viên trường y Đại học Boston bị đình chỉ, nợ 130.000 đô la tiền vay sinh viên và không nhận được tiền từ cha mẹ, khiến anh phải dựa vào một luật sư do người đóng thuế tài trợ để bào chữa cho mình, theo một tài liệu tòa án tại Tòa án thành phố Boston gán cho anh ta sự nghèo túng. Markoff tốt nghiệp Đại học Bang New York-Albany và là sinh viên y khoa năm thứ hai tại BU.",
+        "sentence2": "Sinh viên y khoa Philip Markoff đã đính hôn."
+    },
+    {
+        "id": 79,
+        "label": 0,
+        "sentence1": "Phương Tây thích tập trung vào các loài động vật có nguy cơ tuyệt chủng hơn là con người có nguy cơ tuyệt chủng. Voi châu Phi bị những kẻ săn trộm săn lùng, tước ngà và cất giấu. Số lượng ngà voi ở châu Phi giảm từ 1,2 triệu xuống còn 600.000 trong một thập kỷ cho đến khi CITES - Công ước về buôn bán quốc tế các loài có nguy cơ tuyệt chủng - cấm buôn bán ngà voi.",
+        "sentence2": "Voi châu Phi đang bị đe dọa bởi những kẻ săn trộm ngà."
+    },
+    {
+        "id": 80,
+        "label": 1,
+        "sentence1": "Việc kéo dài thời gian độc quyền tiếp thị có hiệu lực đối với thuốc được thiết kế để mang lại cho các công ty dược phẩm một khoản lợi nhuận hợp lý.",
+        "sentence2": "Các loại thuốc triển vọng phải có tuổi thọ lâu dài trên thị trường sau khi được phê duyệt theo quy định để được phát triển."
+    },
+    {
+        "id": 81,
+        "label": 0,
+        "sentence1": "Gia đình của Hepburn sẽ nhận được số tiền bán được.",
+        "sentence2": "Tiền thu được sẽ đến tay gia đình Hepburn."
+    },
+    {
+        "id": 82,
+        "label": 1,
+        "sentence1": "Các thành viên Đảng Dân chủ của Ủy ban Cách thức và Phương tiện, nơi soạn thảo và nâng cao các dự luật thuế, không có hồ sơ bỏ phiếu mạnh mẽ về doanh nghiệp nhỏ.",
+        "sentence2": "Các thành viên đảng Dân chủ đã có hồ sơ bỏ phiếu doanh nghiệp nhỏ mạnh mẽ."
+    },
+    {
+        "id": 83,
+        "label": 1,
+        "sentence1": "Chuyến thăm chính thức của Bộ trưởng Argentina đánh dấu một bước tiến xa hơn trong quá trình bình thường hóa quan hệ Anh-Argentina.",
+        "sentence2": "Quan hệ giữa Argentina và Vương quốc Anh đang phát triển hợp tác hơn."
+    },
+    {
+        "id": 84,
+        "label": 1,
+        "sentence1": "Người ta hy vọng rằng phụ nữ, chiếm hơn một nửa dân số, sẽ bỏ phiếu cho những phụ nữ khác và đảm bảo rằng các vấn đề của họ được đại diện trong quốc hội.",
+        "sentence2": "Phụ nữ ít được đại diện trong quốc hội."
+    },
+    {
+        "id": 85,
+        "label": 0,
+        "sentence1": "Sự tăng trưởng này chỉ tồn tại trong thời gian ngắn, vì một cuộc xâm lược của Thụy Điển (1655-56) đã tàn phá thành phố Warsaw phồn hoa.",
+        "sentence2": "Warsaw bị người Thụy Điển xâm lược vào năm 1655 và thành phố bị tàn phá."
+    },
+    {
+        "id": 86,
+        "label": 0,
+        "sentence1": "Việc làm tăng lên có nghĩa là Tổng thống Bush có thể ăn mừng - mặc dù với biên độ rất nhỏ - mức tăng trưởng ròng về việc làm trong nền kinh tế Mỹ trong nhiệm kỳ đầu tiên của ông.",
+        "sentence2": "Nhiều việc làm đã được tạo ra trong nhiệm kỳ đầu tiên của Tổng thống Bush."
+    },
+    {
+        "id": 87,
+        "label": 1,
+        "sentence1": "Cục Điều tra Liên bang đã bắt đầu một cuộc điều tra độc lập về các tình huống ngay sau khi Nhà Trắng nói rõ rằng Tổng thống Bill Clinton coi gián điệp công nghiệp là mối đe dọa đặc biệt đối với lợi ích kinh tế của Hoa Kỳ.",
+        "sentence2": "Một cuộc điều tra của Hoa Kỳ về cuộc điều tra đã bắt đầu theo sự xúi giục của Bộ Thương mại."
+    },
+    {
+        "id": 88,
+        "label": 0,
+        "sentence1": "Các nhà nghiên cứu tại Trường Y tế Công cộng Harvard nói rằng những người uống cà phê có thể làm được nhiều việc hơn là giúp họ tỉnh táo - loại tiêu thụ này dường như cũng có thể giúp giảm nguy cơ mắc bệnh.",
+        "sentence2": "Uống cà phê có lợi cho sức khỏe."
+    },
+    {
+        "id": 89,
+        "label": 1,
+        "sentence1": "Một trợ lý hàng đầu của bà Bhutto, Thượng nghị sĩ Latif Khosa, nói rằng vào ngày bà bị ám sát, bà Bhutto đã lên kế hoạch đưa cho hai nhà lập pháp Hoa Kỳ đến thăm một hồ sơ dày cộp nêu rõ nhiều trường hợp gian lận trước bầu cử của chính phủ liên quan đến đăng ký cử tri cũng như đe dọa những người ủng hộ PPP. Khosa nói: \"Mọi thứ đã được ghi lại trong đó, với tất cả các bằng chứng mà chúng tôi có, và với các báo cáo độc lập của các giám sát viên nước ngoài cũng đang hoạt động. Báo cáo của họ cũng hỗ trợ cho các cáo buộc của chúng tôi là đáng kể và đúng sự thật. Vì vậy, tất cả chúng đều được ghi lại, nhưng tiếc là cô ấy không thể trình bày báo cáo vì cô ấy đã bị ám sát trước khi có thể làm điều đó\".",
+        "sentence2": "Latif Khosa có quan hệ tình cảm với bà Bhutto."
+    },
+    {
+        "id": 90,
+        "label": 0,
+        "sentence1": "Nam Mỹ - Tổng thống Colombia Alvaro Uribe dự kiến gặp Tổng thống Venezuela Hugo Chávez vào thứ Năm. Rõ ràng cuộc khủng hoảng giữa Venezuela và Colombia gần như đã được giải quyết. Cuộc khủng hoảng bắt đầu với việc quân đội Colombia bỏ tù người được cho là thành viên FARC Rodrigo Granda vào ngày 13 tháng 12 năm 2004. Venezuela cáo buộc người Colombia xâm chiếm lãnh thổ Venezuela. Colombia cáo buộc Venezuela chứa chấp khủng bố FARC. Chủ tịch Cuba, Fidel Castro, đã can thiệp vào cuộc khủng hoảng và nói chuyện với Chavez và Uribe.",
+        "sentence2": "Alvaro Uribe là Tổng thống hiện tại của Colombia."
+    },
+    {
+        "id": 91,
+        "label": 1,
+        "sentence1": "Thị trấn cũng là quê hương của Đức Đạt Lai Lạt Ma và hơn 10.000 người Tây Tạng sống lưu vong.",
+        "sentence2": "Đức Đạt Lai Lạt Ma đã sống lưu vong từ năm 10.000."
+    },
+    {
+        "id": 92,
+        "label": 0,
+        "sentence1": "Adela Lupse sinh năm 1988 trong một gia đình thợ mỏ ở làng Poiana, Bihor ở Transylvania, Romania. Là thành viên của thế hệ hậu Ceausescu đầu tiên của Romania, bà nắm bắt được sức mạnh của truyền hình khi còn trẻ: \"Tôi nghĩ rằng truyền hình là hiện tượng thú vị nhất mà thời hiện đại đã mang lại cho chúng ta.... đối với kiểu tính cách của tôi, tôi thấy điều đó thật ấn tượng, sức mạnh mà truyền hình có trên toàn thế giới.... Chúng tôi ăn mặc giống những người mà truyền hình đề cao. Chúng tôi muốn trông giống những người nổi tiếng mà truyền hình giới thiệu.\"",
+        "sentence2": "Bihor nằm ở Romania."
+    },
+    {
+        "id": 93,
+        "label": 0,
+        "sentence1": "Merrill Lynch & Co. và Smith Barney, hiện là một bộ phận của Citigroup, vào năm 1998 đã giải quyết các vụ phân biệt đối xử liên quan đến hàng trăm nhân viên nữ.",
+        "sentence2": "Merrill Lynch & Co. và Smith Barney hiện là một đơn vị của Citigroup."
+    },
+    {
+        "id": 94,
+        "label": 1,
+        "sentence1": "La Paz, ngày 30 tháng 5 năm 89 - Cơ quan cảnh sát Sở La Paz đã tiết lộ rằng các cuộc điều tra về vụ sát hại hai công dân Hoa Kỳ trẻ tuổi đang được tiến hành bởi một nhóm chuyên trách được triệu tập đặc biệt để làm rõ tội ác này.",
+        "sentence2": "Hai thanh niên công dân Hoa Kỳ bị giết vào ngày 30 tháng 5 năm 89."
+    },
+    {
+        "id": 95,
+        "label": 1,
+        "sentence1": "Tôi tự hỏi làm thế nào để hiểu được thành công của 'Chạng vạng'. Và tôi đã nghĩ rằng khi bạn thực sự tin tưởng vào một điều gì đó thì sớm hay muộn điều đó cũng sẽ trở thành hiện thực. Vì vậy, tôi đoán đây là điều đã xảy ra với Robert Pattinson. Năm ngoái anh ấy chỉ là một diễn viên vô danh với vai diễn lớn nhất trong một cặp phim \"Harry Potter\". Giờ đây, không chỉ Chạng vạng đang cạnh tranh với 'Harry Potter', mà Robert Pattinson còn là một trong những diễn viên trẻ nổi tiếng nhất thu về 373,4 triệu USD từ phòng vé toàn cầu. Vì vậy, bộ phim về một chàng trai ma cà rồng đem lòng yêu một cô gái bình thường đã bắt đầu một cơn cuồng loạn thực sự. Và Pattinson có rất nhiều việc phải làm với nó!.",
+        "sentence2": "Robert Pattinson là một ma cà rồng."
+    },
+    {
+        "id": 96,
+        "label": 1,
+        "sentence1": "Andreessen, người đã giúp xác định cuộc cách mạng Internet với tư cách là một phần của nhóm tạo ra trình duyệt Internet đầu tiên (Mosaic) và người đồng sáng lập Netscape của ông, đã phát biểu trước một hội trường đông đúc tại khách sạn San Francisco Marriott hôm thứ Năm rằng ông \"cực kỳ tận tâm\" với công ty khởi nghiệp Loudcloud của mình.",
+        "sentence2": "Trình duyệt Internet Mosaic được tạo ra tại khách sạn San Francisco Marriott."
+    },
+    {
+        "id": 97,
+        "label": 0,
+        "sentence1": "Tòa án Tối cao cho biết hôm nay các tiểu bang có thể cấm loại bỏ phương pháp điều trị duy trì sự sống đối với những bệnh nhân hôn mê chưa thực hiện hoặc không thể thực hiện mong muốn của họ.",
+        "sentence2": "Có quyết định của Tòa án Tối cao về việc loại bỏ thiết bị hỗ trợ sự sống."
+    },
+    {
+        "id": 98,
+        "label": 0,
+        "sentence1": "Tòa án Tư pháp Tối cao Massachusetts đã dọn đường cho các cặp đồng tính nữ và đồng tính nam trong tiểu bang kết hôn, phán quyết rằng các luật sư của chính phủ \"không xác định được bất kỳ lý do hợp hiến nào\" để từ chối quyền của họ.",
+        "sentence2": "Tối Cao Pháp Viện Hoa Kỳ ủng hộ hôn nhân đồng giới"
+    },
+    {
+        "id": 99,
+        "label": 0,
+        "sentence1": "Cựu vô địch hạng nặng WBA Greg Page, người bị chấn thương sọ não nặng trong một trận đấu năm 2001, đã qua đời tại nhà riêng ở Louisville ở tuổi 50. Theo vợ của Page, cựu vô địch qua đời vì biến chứng chấn thương quyền anh và liệt. Sau sự nghiệp nghiệp dư thành công, Page đã giành chiến thắng 58-17-1 trong sự nghiệp chuyên nghiệp bắt đầu vào năm 1979 và bao gồm các chiến thắng trước Jimmy Young, James Tillis, Renaldo Snipes, Gerrie Coetzee (cho danh hiệu WBA), James 'Bonecrusher' Smith và Tim Witherspoon. Những trận thua của Page giống như ai là ai của những đối thủ nặng ký của thập niên 1980: Trevor Berbick, Witherspoon, Tony Tubbs, Buster Douglas, Joe Bugner, Orlin Norris, Donovan 'Razor' Ruddock, Bruce Seldon, Monte Barrett và Jorge Luis Gonzalez.",
+        "sentence2": "Trang Greg là một võ sĩ quyền Anh."
+    },
+    {
+        "id": 100,
+        "label": 0,
+        "sentence1": "Thái tử Charles, người thừa kế ngai vàng nước Anh, tuyên bố sẽ kết hôn với người tình 34 năm Camilla Parker Bowles. Trong một thông cáo báo chí, Hoàng tử xứ Wales cho biết \"Bà Parker Bowles và tôi vô cùng vui mừng. Đó sẽ là một ngày rất đặc biệt đối với chúng tôi và gia đình.\" Bà Parker Bowles sẽ sử dụng danh hiệu \"HRH Nữ công tước xứ Cornwall\" sau khi họ kết hôn, và dự định rằng sau khi Hoàng tử lên ngôi, bà Parker Bowles sẽ sử dụng danh hiệu \"HRH The Princess Consort\". Cặp đôi sẽ kết hôn vào ngày 8 tháng 4 năm 2005 tại một buổi lễ dân sự riêng tư ở Lâu đài Windsor, đây sẽ là một dịp chủ yếu dành cho bạn bè và gia đình. Sau đó sẽ có một nghi thức cầu nguyện và cung hiến trong Nhà nguyện St. George, được tiến hành bởi Tổng Giám mục Canterbury, Tiến sĩ Rowan Williams.",
+        "sentence2": "Camilla Parker Bowles đính hôn với người thừa kế nước Anh."
+    },
+    {
+        "id": 101,
+        "label": 0,
+        "sentence1": "Ví dụ: Kota (\"Pháo đài\"), hay Thành phố cổ, đôi khi được gọi là khu vực trung tâm thành phố, là khu thương mại trung tâm và là thủ đô tài chính của Indonesia.",
+        "sentence2": "Kota là trung tâm kinh doanh của đất nước."
+    },
+    {
+        "id": 102,
+        "label": 0,
+        "sentence1": "Được gọi là khai thác \"heap leach\", phương pháp này đã trở nên phổ biến trong thập kỷ qua vì nó cho phép khai thác các mẩu vàng cực nhỏ từ quặng cấp thấp một cách kinh tế.",
+        "sentence2": "Ngành công nghiệp khai thác sử dụng một phương pháp được gọi là lọc đống."
+    },
+    {
+        "id": 103,
+        "label": 0,
+        "sentence1": "Hình ảnh vệ tinh gần đây của Công viên quốc gia Yellowstone ở Wyoming từ năm 2004 đến năm 2006 cho thấy một ngọn núi lửa cổ đại đang bắt đầu hoạt động trở lại. Đá nóng chảy hiện đang đẩy phần còn lại của miệng núi lửa, nằm trên đỉnh hồ Yellowstone, nhưng các nhà khoa học nhấn mạnh rằng không có nguy cơ phun trào hoặc nổ ngay lập tức. Cánh đồng đá nóng chảy được ước tính có kích thước bằng thành phố Los Angeles, California.",
+        "sentence2": "Có một ngọn núi lửa ở Yellowstone."
+    },
+    {
+        "id": 104,
+        "label": 0,
+        "sentence1": "Quân đội Hoa Kỳ đã chấp nhận yêu cầu của thống đốc địa phương để ngăn quân đội Hoa Kỳ tránh xa Đền thờ Imam Ali ở Najaf.",
+        "sentence2": "Quân đội Hoa Kỳ đã đồng ý với yêu cầu của thống đốc địa phương để giữ cho quân đội Hoa Kỳ tránh xa Đền thờ Imam Ali ở Najaf."
+    },
+    {
+        "id": 105,
+        "label": 0,
+        "sentence1": "Chính phủ El Salvador lên án mạnh mẽ các vụ tấn công khủng bố được thực hiện bằng chất nổ hôm nay nhằm vào Liên đoàn Công đoàn Quốc gia Công nhân Salvador, trong đó một số người bị thương và những người khác thiệt mạng.",
+        "sentence2": "Các cuộc tấn công khủng bố đã được thực hiện ở El Salvador."
+    },
+    {
+        "id": 106,
+        "label": 0,
+        "sentence1": "MIDWEST CITY, Okla. – Các toán cứu hỏa ở Oklahoma và Texas hôm thứ Năm đã chạy đua với nhau để kiểm soát các đám cháy rừng do gió thổi qua đã phá hủy hàng chục ngôi nhà, làm hai người bị thương nặng, buộc phải di tản và đóng cửa nhiều phần của đường cao tốc chính. Cảnh sát trưởng thành phố Midwest Brandon Clabes cho biết gió hú với vận tốc hơn 60 dặm/giờ đã cản trở các nỗ lực chữa cháy trên mặt đất ở cả hai bang và thổi bùng ngọn lửa thiêu đốt các khu dân cư giống như \"một vùng chiến sự\". \"Gió là vấn đề lớn nhất, bởi vì chúng tôi không thể vượt qua các đám cháy,\" Cảnh sát trưởng Cứu hỏa Thành phố Trung Tây Jerry Lojka cho biết. Khi màn đêm buông xuống, gió giật giảm xuống còn khoảng 30 dặm/giờ ở nhiều khu vực.",
+        "sentence2": "Những ngôi nhà bị phá hủy bởi cháy rừng ở Oklahoma và Texas."
+    },
+    {
+        "id": 107,
+        "label": 1,
+        "sentence1": "Các biện pháp an ninh mới do Cơ quan Hải quan thực hiện có thể không đủ để ngăn chặn một kẻ khủng bố buôn lậu vũ khí hạt nhân.",
+        "sentence2": "Các bước đang được thực hiện để ngăn chặn việc buôn lậu người ngoài hành tinh."
+    },
+    {
+        "id": 108,
+        "label": 0,
+        "sentence1": "Các loại thuốc làm chậm hoặc ngăn chặn bệnh Alzheimer hoạt động tốt nhất khi bạn sử dụng chúng sớm hơn.",
+        "sentence2": "Bệnh Alzheimer được điều trị bằng thuốc."
+    },
+    {
+        "id": 109,
+        "label": 0,
+        "sentence1": "Phoenix đang tìm kiếm bằng chứng về sự sống của nước và vi sinh vật trên sao Hỏa. Nhiệm vụ của nó là xác định khả năng hoặc không có khả năng tổ chức sự sống và giữ nước của sao Hỏa. Tàu đổ bộ Phoenix sử dụng một cánh tay rô-bốt để đào xuyên qua lớp đất bảo vệ trên cùng đến lớp băng nước được cho là bên dưới và cuối cùng đưa cả đất và nước đá lên bệ tàu đổ bộ để phân tích khoa học tinh vi.",
+        "sentence2": "Một cánh tay robot đã được sử dụng cho những khám phá khoa học."
+    },
+    {
+        "id": 110,
+        "label": 0,
+        "sentence1": "Ren và kích thích. Lỗi Bunny. Philip J. Fry và Giáo sư Hubert Farnsworth trên Futurama. Sparx. Gấu hai cực. Thủy thủ Popeye. Chim Gõ Kiến Woody. Bạn có thể không nghĩ rằng mình đã từng nghe Billy West, nhưng rất có thể trong một chương trình truyền hình, một bộ phim, một quảng cáo hoặc với tư cách là chuyên gia lồng tiếng của Howard Stern vào những năm 1990, bạn đã nghe thấy anh ấy. Tài năng của West trong việc tạo ra cá tính bằng cách vặn giọng đã khiến anh ấy trở thành một trong số ít diễn viên lồng tiếng - Hank Azaria và Mel Blanc quá cố - những người đã trở nên nổi tiếng nhờ tài năng của họ. Thật vậy, West là một trong số ít diễn viên lồng tiếng có thể đóng giả Blanc trong thời kỳ sơ khai của anh ấy, bao gồm các đặc điểm của Bugs Bunny, Daffy Duck, Elmer Fudd và các nhân vật khác trong phim hoạt hình của Warner Bros.",
+        "sentence2": "Bugs Bunny thuộc sở hữu của Warner Bros."
+    },
+    {
+        "id": 111,
+        "label": 0,
+        "sentence1": "Chúng ta biết rằng Claretta Petacci, tình nhân cuối cùng của Mussolini, có xu hướng rên rỉ và nằm cả ngày trên giường, ăn sô cô la.",
+        "sentence2": "Claretta Petacci là tình nhân cuối cùng của Mussolini."
+    },
+    {
+        "id": 112,
+        "label": 0,
+        "sentence1": "Trận động đất hôm Chủ nhật được cảm nhận ở thành phố Madras, miền nam Ấn Độ trên đất liền, cũng như các khu vực khác ở miền nam Ấn Độ. Văn phòng khí tượng Hải quân ở Port Blair cho biết đây là dư chấn lớn thứ hai sau trận động đất ngày 26/12.",
+        "sentence2": "Thành phố Madras nằm ở miền Nam Ấn Độ."
+    },
+    {
+        "id": 113,
+        "label": 1,
+        "sentence1": "Cả hai mặt của lập luận này đều được trình bày trong bài viết này, nhưng bài viết này cố gắng nhấn mạnh rằng việc hợp pháp hóa ma túy sẽ hủy hoại xã hội của chúng ta.",
+        "sentence2": "Hợp pháp hóa thuốc có lợi ích."
+    },
+    {
+        "id": 114,
+        "label": 1,
+        "sentence1": "Các công ty xuất bản Bloomsbury (Anh) và Scholastic (Mỹ) đã phát hành ảnh bìa cho cuốn sách Harry Potter thứ bảy, Harry Potter và Bảo bối Tử thần. David Saylor, giám đốc nghệ thuật của Scholastic, cho biết trong một tuyên bố mô tả phiên bản Hoa Kỳ: “Các cấu trúc xung quanh Harry cho thấy sự hủy diệt rõ ràng và trong bóng tối phía sau anh ta, chúng tôi thấy đường nét của những người khác”. \"Lần đầu tiên, bìa là một tấm vải bao quanh. Ở bìa sau, những bàn tay như nhện đang vươn về phía Harry. Chỉ khi cuốn sách được mở ra, người ta mới nhìn thấy hình ảnh mạnh mẽ của \"Kẻ-Chớ-gọi-tên\", đôi mắt đỏ rực của anh ta ló ra từ chiếc mũ trùm đầu.\"",
+        "sentence2": "Rowling là tác giả của \"Harry Potter\"."
+    },
+    {
+        "id": 115,
+        "label": 0,
+        "sentence1": "Một số tòa nhà xung quanh quảng trường thành phố ở Kota cũng có từ thời thuộc địa, bao gồm tòa thị chính cũ (1710), đã được khôi phục và hiện được dùng làm bảo tàng thành phố.",
+        "sentence2": "Tòa thị chính bây giờ là một viện bảo tàng."
+    },
+    {
+        "id": 116,
+        "label": 0,
+        "sentence1": "Meadows đã ghi một phần nhỏ trong tập phim \"Law & Order\" vào tháng Giêng.",
+        "sentence2": "Meadows xuất hiện trong tập \"Law & Order\" được phát sóng vào tháng Giêng."
+    },
+    {
+        "id": 117,
+        "label": 1,
+        "sentence1": "Vào khoảng 14:00 UTC hôm nay, một người đàn ông đã trèo qua hàng rào vành đai và đi vào đường băng phía Bắc, 27R, tại Sân bay Heathrow của Luân Đôn, sân bay lớn nhất của Vương quốc Anh. Người đàn ông mang một chiếc ba lô sau đó đã cố gắng chạy trước một chiếc máy bay trên đường băng, tuy nhiên người ta tin rằng anh ta đã bị cảnh sát vũ trang khống chế trước khi đến đường băng rộng.",
+        "sentence2": "Số lượng nhân viên kiểm tra an ninh tại các sân bay Mỹ sẽ giảm."
+    },
+    {
+        "id": 118,
+        "label": 1,
+        "sentence1": "Người cha đau buồn Christopher Yavelow hy vọng sẽ chuyển một triệu bức thư cho nữ hoàng Hà Lan để đưa các con của ông về nước.",
+        "sentence2": "Christopher Yavelow là nữ hoàng của Hà Lan."
+    },
+    {
+        "id": 119,
+        "label": 1,
+        "sentence1": "Khi Albright là đại sứ Hoa Kỳ tại Liên Hợp Quốc, Lesley Stahl của \"60 Minutes\" đã hỏi cô ấy về lệnh trừng phạt và cái chết của trẻ em Iraq. Albright cho biết trách nhiệm của Mỹ là đảm bảo Chiến tranh vùng Vịnh không phải tái diễn.",
+        "sentence2": "Albright nói rằng để trừng phạt Saddam Hussein, cái chết của những đứa trẻ đó là \"đáng giá\"."
+    },
+    {
+        "id": 120,
+        "label": 1,
+        "sentence1": "Không muốn từ bỏ giấc mơ bắt đầu cuộc hành hương Đất Thánh ở Iraq, Giáo hoàng John Paul II đã thực hiện một \"cuộc hành hương ảo\" vào thứ Tư tới Ur, thành phố cổ theo truyền thống được coi là nơi sinh của Áp-ra-ham.",
+        "sentence2": "Giáo hoàng John Paul II sinh ra ở Ba Lan."
+    },
+    {
+        "id": 121,
+        "label": 1,
+        "sentence1": "Chúng tôi xem xét mối quan hệ tốt đẹp giữa hai gia đình thành lập này và bữa tiệc sẽ diễn ra như thế nào với con trai, Thống đốc Texas George W. Bush, và vợ, Elizabeth Dole, trong chiến dịch tranh cử năm 2000.",
+        "sentence2": "Vợ của George W. Bush tên là Laura."
+    },
+    {
+        "id": 122,
+        "label": 1,
+        "sentence1": "Liên quan đến tòa nhà trụ sở, Thụy Sĩ đang quy định rằng họ sẽ chuyển nó cho WTO với giá trị khoảng 51 triệu franc Thụy Sĩ.",
+        "sentence2": "Trụ sở chính của WTO ở Thụy Sĩ."
+    },
+    {
+        "id": 123,
+        "label": 0,
+        "sentence1": "Một chiếc máy bay đã bị rơi ở Bắc Carolina vào năm ngoái và hầu hết nhóm Blink-182 đã ở đó. Những người sống sót duy nhất sau vụ tai nạn là DJ AM và cộng sự âm nhạc Travis Barker. Kém may mắn hơn, \"Lil\" Chris Baker, bạn thân kiêm trợ lý của Barker, vệ sĩ của tay trống Blink-182, Charles \"Che\" Still, viên phi công và phụ lái đã thiệt mạng. Cả AM và Barker đều bị nhiều vết thương, bỏng nặng và phải nằm viện vài tuần. Bây giờ AM yêu cầu bồi thường 20 triệu đô la cho những vết thương mà anh ấy phải chịu. Anh ta kiện nhà sản xuất máy bay Learjet và muốn kiếm được 10 triệu đô la cho những thiệt hại y tế, thu nhập và lợi nhuận bị mất cũng như số tiền tương tự cho những đau khổ về tinh thần và thể chất.",
+        "sentence2": "Travis Barker thuộc về một ban nhạc."
+    },
+    {
+        "id": 124,
+        "label": 1,
+        "sentence1": "Trường Nghệ thuật VCU Tại Qatar tọa lạc tại Doha, thủ đô của Qatar.",
+        "sentence2": "Ca-ta nằm ở Doha."
+    },
+    {
+        "id": 125,
+        "label": 1,
+        "sentence1": "Pole Robert Kubica đã trở thành tâm điểm của cuối tuần khi giành được pole, nhưng xuất phát chậm và đứng thứ ba trên bục vinh quang. Nick Heidfeld, đồng đội BMW Sauber của anh ấy về thứ tư. Kết quả đưa BMW trở thành người dẫn đầu mới của chức vô địch Người xây dựng, hơn Scuderia Ferrari một điểm. Heikki Kovalainen về thứ năm và trở thành tay đua McLaren duy nhất về đích với số điểm. Jarno Trulli (Toyota) và Mark Webber (Red Bull-Renault) lần lượt xếp thứ 6 và 7 trong khi Nico Rosberg (Williams-Toyota) đứng ở vị trí thứ 8 với 1 điểm. Timo Glock (Toyota) đã tham gia vào một trận chiến khó khăn với Fernando Alonso (Renault) và về thứ 9 trước Nhà vô địch F1 Tây Ban Nha 2005.",
+        "sentence2": "Robert Kubica đã được Scuderia Ferrari bổ nhiệm."
+    },
+    {
+        "id": 126,
+        "label": 1,
+        "sentence1": "Tự tin rằng những bài chấm điểm đó sẽ hiểu câu trả lời được viết bằng văn bản, Haque nhấn mạnh rằng trong một số kỳ thi, bao gồm cả tiếng Anh, viết tắt văn bản sẽ bị phạt.",
+        "sentence2": "Haque muốn đưa tiếng Anh vào một số kỳ thi."
+    },
+    {
+        "id": 127,
+        "label": 1,
+        "sentence1": "Trên thực tế, việc hợp pháp hóa sẽ mở rộng đáng kể sự phụ thuộc vào ma túy của Mỹ, làm tăng đáng kể chi phí xã hội của việc lạm dụng ma túy và khiến vô số sinh mạng vô tội gặp nguy hiểm.",
+        "sentence2": "Hợp pháp hóa thuốc có lợi ích."
+    },
+    {
+        "id": 128,
+        "label": 0,
+        "sentence1": "Tổng thống Côte d'Ivoire, Laurent Gbagbo, đã ban hành luật bầu cử mới vào ngày 14 tháng 7.",
+        "sentence2": "Tổng thống Laurent Gbagbo sống ở Côte d'Ivoire."
+    },
+    {
+        "id": 129,
+        "label": 0,
+        "sentence1": "Vào ngày 12 tháng 7, Tổng thống Bồ Đào Nha Jorge Sampaio yêu cầu Pedro Santana Lopes thành lập chính phủ. Chính phủ mới tuyên thệ nhậm chức vào ngày 17 tháng 7 và bao gồm António Monteiro làm ngoại trưởng, Daniel Sanches làm bộ trưởng nội vụ và António Bago Flix làm bộ trưởng tài chính; Paulo Portas vẫn là bộ trưởng quốc phòng.",
+        "sentence2": "Thủ tướng mới của Bồ Đào Nha được bầu."
+    },
+    {
+        "id": 130,
+        "label": 1,
+        "sentence1": "Vài giờ trước đó, Yasser Arafat đã kêu gọi chấm dứt các cuộc tấn công nhằm vào thường dân Israel trong hai tuần trước cuộc bầu cử ở Israel.",
+        "sentence2": "Arafat lên án các vụ đánh bom liều chết bên trong Israel."
+    },
+    {
+        "id": 131,
+        "label": 0,
+        "sentence1": "Hoàng hôn, chạm vào những ngọn đồi xa xôi với những dải lửa băng qua vùng biển của Biển Chết, mang đến cảm giác hư ảo khi lên đến đỉnh điểm chuyến thăm trong ngày tới điểm thấp nhất trên trái đất, khoảng 400 mét dưới mực nước biển.",
+        "sentence2": "Điểm thấp nhất trên trái đất là ở Biển Chết."
+    },
+    {
+        "id": 132,
+        "label": 0,
+        "sentence1": "Bác sĩ thú y cấp tỉnh của Bộ Tài nguyên Lâm nghiệp và Nông sản, Tiến sĩ Hugh Whitney, hôm nay đã xác nhận một trường hợp mắc bệnh dại khác ở Labrador, nâng tổng số trường hợp mắc bệnh dại được xác nhận ở Labrador lên 9 trường hợp kể từ tháng 11 năm 2000.",
+        "sentence2": "Một trường hợp mắc bệnh dại đã được xác nhận."
+    },
+    {
+        "id": 133,
+        "label": 1,
+        "sentence1": "Một nhà báo người Mỹ gốc Nga, Klebnikov đã bị ít nhất một sát thủ bắn bốn phát trên một chiếc ô tô chạy ngang qua khi anh ta bước ra khỏi văn phòng của mình vào buổi tối hôm đó ở Moscow.",
+        "sentence2": "Vladislav Listyev bị ám sát ở Moscow."
+    },
+    {
+        "id": 134,
+        "label": 0,
+        "sentence1": "Một cơn bão mạnh đã tàn phá miền bắc và miền trung Philippines với mưa và gió hôm thứ Năm, làm ít nhất 3 người thiệt mạng và giao thông bị cắt đứt. Các nhà chức trách đã hủy các chuyến bay, dịch vụ phà và đóng cửa trường học. Cơ quan thời tiết Philippines cho biết bão Xangsane với sức gió 81 dặm/giờ đã đổ bộ vào khu vực miền trung Bicol và được dự báo sẽ đi qua thủ đô Manila.",
+        "sentence2": "Bão đổ bộ vào Philippines."
+    },
+    {
+        "id": 135,
+        "label": 0,
+        "sentence1": "Đỉnh Olympus nhô lên từ tâm trái đất.",
+        "sentence2": "Đỉnh Olympus nằm ở trung tâm của trái đất."
+    },
+    {
+        "id": 136,
+        "label": 1,
+        "sentence1": "Philadelphia được coi là cái nôi của Hợp chủng quốc Hoa Kỳ, nơi Tuyên ngôn Độc lập và Hiến pháp được viết và ký tại Hội trường Độc lập của thành phố.",
+        "sentence2": "Tuyên ngôn Độc lập Hoa Kỳ được đặt tại Philadelphia."
+    },
+    {
+        "id": 137,
+        "label": 0,
+        "sentence1": "It's Only a Play là vở \"Give My Regards to Broadway\" của Terrence McNally, một lời tri ân nhẹ nhàng dành cho nhà hát khi được nhìn từ vị trí thuận lợi cao cả nhưng hạn chế của các nghệ sĩ Broadway, những người bị tâm lý thành công/thất bại của New York nuốt chửng.",
+        "sentence2": "Broadway ở New York."
+    },
+    {
+        "id": 138,
+        "label": 1,
+        "sentence1": "Lưu ý rằng SBB, CFF và FFS đại diện cho công ty đường sắt chính, bằng tiếng Đức, tiếng Pháp và tiếng Ý.",
+        "sentence2": "Công ty đường sắt của Pháp có tên là SNCF."
+    },
+    {
+        "id": 139,
+        "label": 1,
+        "sentence1": "Các quan chức quản chế của Quận Los Angeles cho biết họ hiện đang nghiên cứu cách các quận khác thu hồi chi phí giam giữ trẻ vị thành niên, sau khi thừa nhận họ đã tính nhầm hóa đơn cho cha mẹ trong nhiều ngày khi thanh thiếu niên bị giam giữ trong các trại và hội trường quản chế. Theo luật, các quận của California có thể gửi hóa đơn cho cha mẹ và người giám hộ hợp pháp về một số chi phí hàng ngày để giam giữ thanh thiếu niên, nhưng chỉ những người mà cha mẹ có đủ khả năng chi trả. Năm ngoái, hơn 20.000 thanh niên đã được nhận vào các trại quản chế và ký túc xá, và Quận LA lập hóa đơn cho phụ huynh một khoản phí hàng ngày là $11,94 cho các trại, $23,63 cho ký túc xá.",
+        "sentence2": "Tại Quận Los Angeles, tất cả các bậc cha mẹ phải trả chi phí giam giữ con cái của họ."
+    },
+    {
+        "id": 140,
+        "label": 1,
+        "sentence1": "Nhân chứng sau đó phát hiện Rodriguez đang cúi mình sau cánh cổng để được bảo vệ.",
+        "sentence2": "Nhân chứng giải cứu Rodriguez."
+    },
+    {
+        "id": 141,
+        "label": 0,
+        "sentence1": "Một trận động đất kinh hoàng được cho là đã gây ra một đợt bùng phát bức xạ xé toạc Trái đất vào ngày 27 tháng 12, phá hủy các thiết bị vệ tinh và thắp sáng bầu khí quyển của chúng ta.",
+        "sentence2": "Tia sáng bức xạ vào ngày 27 tháng 12 thắp sáng bầu khí quyển của Trái đất."
+    },
+    {
+        "id": 142,
+        "label": 1,
+        "sentence1": "Phiên tòa bắt đầu hôm nay đối với một quân nhân bang Pennsylvania bị buộc tội giết người chồng ghẻ lạnh của bạn gái mình. Kevin Foley, 43 tuổi, bị buộc tội cắt cổ John Yelenic, một nha sĩ đang trong giai đoạn cuối cùng để hoàn tất thủ tục ly hôn với vợ ông, Michele. Theo các công tố viên, Foley \"ghê tởm Tiến sĩ Yelenic\" đến mức anh ta nhờ một người lính khác giúp anh ta thực hiện vụ giết người bị cáo buộc, xảy ra tại nhà của Yelenic ở Blairsville.",
+        "sentence2": "Yelenic lạm dụng tình dục con trai nuôi."
+    },
+    {
+        "id": 143,
+        "label": 0,
+        "sentence1": "Blair đồng cảm với bất cứ ai đã mất mạng ở Iraq.",
+        "sentence2": "Blair đồng cảm với bất kỳ ai đã mất mạng ở Iraq."
+    },
+    {
+        "id": 144,
+        "label": 1,
+        "sentence1": "Tỷ lệ ủng hộ bà Bush vẫn rất cao, trên 80%, ngay cả khi tỷ lệ ủng hộ của chồng bà gần đây giảm xuống dưới 50%.",
+        "sentence2": "80% tán thành ông Bush."
+    },
+    {
+        "id": 145,
+        "label": 0,
+        "sentence1": "Một yếu tố khác làm tăng chi phí giấy là tăng chi phí bột gỗ, từ đó giấy được sản xuất",
+        "sentence2": "Chi phí giấy đang tăng lên."
+    },
+    {
+        "id": 146,
+        "label": 0,
+        "sentence1": "Mặc dù ngày chính xác vẫn còn đang tranh cãi, chó được cho là đã được con người thuần hóa khoảng 12.000 năm trước.",
+        "sentence2": "Con người tồn tại 10.000 năm trước."
+    },
+    {
+        "id": 147,
+        "label": 1,
+        "sentence1": "Rốt cuộc, Wilson đã sản xuất cả ba album Offspring, bao gồm cả \"Smash\", album đã khiến mọi người kinh ngạc khi bán được 1 triệu bản trong bốn tháng, thiết lập nhóm chưa từng được biết đến với tư cách là người dẫn đầu, với Green Day, của một làn sóng thành công thương mại chưa từng có đối với nhạc punk.",
+        "sentence2": "Smash là tiêu đề của album thứ ba của Con cái."
+    },
+    {
+        "id": 148,
+        "label": 0,
+        "sentence1": "Moscow tin rằng vùng biển của Biển Azov nên được sử dụng chung, nhưng Kiev khăng khăng muốn có sự phân chia rõ ràng.",
+        "sentence2": "Có tranh chấp lãnh hải."
+    },
+    {
+        "id": 149,
+        "label": 0,
+        "sentence1": "Jerry Reinsdorf (sinh ngày 25 tháng 2 năm 1936 tại Brooklyn, New York) là chủ sở hữu của Chicago White Sox và Chicago Bulls. Gần đây, anh ấy đã giúp White Sox giành được 2005 World Series và trong quá trình đó, anh ấy đã giành được chiếc nhẫn vô địch thứ bảy chung cuộc (sáu chiếc đầu tiên đều thuộc về Bulls vào những năm 1990), trở thành chủ nhân thứ ba trong lịch sử thể thao Bắc Mỹ giành được chức vô địch ở hai môn thể thao khác nhau.",
+        "sentence2": "Jerry Reinsdorf đã giành được 7 chức vô địch."
+    },
+    {
+        "id": 150,
+        "label": 1,
+        "sentence1": "Người phụ nữ Quebec và mẹ cô bị buộc tội âm mưu giết một bé gái bốn tuổi",
+        "sentence2": "Người phụ nữ Quebec sát hại bé gái bốn tuổi."
+    },
+    {
+        "id": 151,
+        "label": 1,
+        "sentence1": "Do những điểm yếu này, hệ thống máy tính và các hoạt động dựa trên hệ thống rất dễ bị giả mạo, gián đoạn và lạm dụng từ cả nguồn bên trong và bên ngoài.",
+        "sentence2": "Nhân viên không được ủy quyền xâm nhập trái phép vào mạng máy tính."
+    },
+    {
+        "id": 152,
+        "label": 0,
+        "sentence1": "Do đó, bắt đầu hành trình đưa Hannam, một nhà báo tự do 29 tuổi, thực hiện nhiệm vụ quốc tế nhằm giải quyết một trong những bí ẩn lớn nhất của châu Á: Chuyện gì đã xảy ra với Lin Piao, nhà lãnh đạo Đảng Cộng sản Trung Quốc bị cáo buộc âm mưu lật đổ Chủ tịch Mao năm 1971.",
+        "sentence2": "Lin Piao là lãnh đạo Đảng Cộng sản Trung Quốc."
+    },
+    {
+        "id": 153,
+        "label": 0,
+        "sentence1": "Một nghiên cứu mới được thực hiện bởi các nhà nghiên cứu từ Trường Y khoa Christchurch của Đại học Otago đã phát hiện ra rằng một số hợp chất hóa học tự nhiên được tìm thấy trong các loại rau họ cải giúp tiêu diệt các tế bào ung thư đặc biệt kháng hóa trị. Nghiên cứu đã được công bố trên tạp chí Nghiên cứu Ung thư. Nhóm nghiên cứu phát hiện ra rằng hóa chất gọi là isothiocyanate khiến tế bào ung thư tự sát. Điều này bao gồm các tế bào có hàm lượng protein Bcl-2 cao, giúp chúng kháng hóa trị. Isothiocyanate được tìm thấy tự nhiên trong các loại rau họ cải. Chúng bao gồm cải xoăn, bắp cải, bông cải xanh, súp lơ trắng, cải ngọt, củ cải và cải xoong, trong số những loại khác.",
+        "sentence2": "Bông cải xanh có chứa isothiocyanates."
+    },
+    {
+        "id": 154,
+        "label": 0,
+        "sentence1": "Massage Thụy Điển được sử dụng để giúp thư giãn cơ bắp, tăng tuần hoàn, loại bỏ các chất cặn bã trong quá trình trao đổi chất, giúp người nhận có cảm giác được kết nối, nhận thức rõ hơn về cơ thể cũng như cách họ sử dụng và định vị nó.",
+        "sentence2": "Massage Thụy Điển nới lỏng cơ bắp căng thẳng."
+    },
+    {
+        "id": 155,
+        "label": 0,
+        "sentence1": "Một nhà phân tích ô tô của Bombay's Angel Broking, Vaishali Jajoo, đã dự đoán rằng Nano sẽ chỉ bổ sung 3% vào doanh thu của Tata ngay cả khi hãng có thể bán được 1/4 triệu chiếc ô tô như vậy mỗi năm. \"Điều đó không tạo ra sự khác biệt đáng kể cho dòng trên cùng,\" Jajoo nói. \"Và về điểm mấu chốt, sẽ mất từ 5 đến 6 năm để hòa vốn.\" Các nhà bảo vệ môi trường cho rằng loại xe này sẽ làm trầm trọng thêm các vấn đề giao thông vốn đã phổ biến ở Ấn Độ và góp phần làm tăng mức độ ô nhiễm. Tuy nhiên, Tata tuyên bố rằng xe của họ là loại xe ít gây ô nhiễm nhất trong cả nước.",
+        "sentence2": "Angel Broking có trụ sở tại Bombay."
+    },
+    {
+        "id": 156,
+        "label": 1,
+        "sentence1": "Cuộc điều tra diễn ra sau sự sụp đổ của Ngân hàng Barings, khi một trong những nhà giao dịch của ngân hàng này có trụ sở tại Singapore, Nick Leeson, đã lỗ tổng cộng 600-700 triệu đơn đặt hàng mà ngân hàng không hề hay biết.",
+        "sentence2": "Nick Leeson bị bắt vì làm sập Barings Bank PLC."
+    },
+    {
+        "id": 157,
+        "label": 0,
+        "sentence1": "Rotorua đã cấm những tên tội phạm có năm tiền án bất lương trở lên vào Khu Thương mại Trung tâm (CBD). Những tên tội phạm sẽ được cấp thông báo xâm phạm cấm chúng đến các đường phố chính của Rotorua. Mười một trong số mười hai ủy viên hội đồng, bao gồm cả thị trưởng Rotorua, ủng hộ luật cùng với sự ủng hộ của cảnh sát. Kevin Winters, Thị trưởng Rotorua, cho biết \"Lệnh cấm này cũng nhận được sự ủng hộ của các doanh nghiệp địa phương, những người muốn chấm dứt nạn trộm cắp, hành hung, ăn cắp vặt trong cửa hàng và các loại tội phạm đường phố khác trên đường phố Rotorua. Tội phạm là một vấn đề trong khu vực. Năm cuộc đình công là bạn bị loại.\"",
+        "sentence2": "Khu thương mại trung tâm (CBD) là một phần của Rotorua."
+    },
+    {
+        "id": 158,
+        "label": 1,
+        "sentence1": "Bão nhiệt đới Koni đã gây mưa lớn ở Philippines trước khi trở thành một cơn bão cấp nhỏ và cuối cùng đổ bộ vào bờ biển phía bắc Việt Nam.",
+        "sentence2": "Một cơn bão nhiệt đới đã gây ra thiệt hại đáng kể về tài sản."
+    },
+    {
+        "id": 159,
+        "label": 1,
+        "sentence1": "Chiến dịch Nghiên cứu Ung thư đã ký một thỏa thuận với một công ty dược phẩm của Hoa Kỳ để phát triển một phương pháp điều trị ung thư tiên phong.",
+        "sentence2": "Những thay đổi khác liên quan đến các chương trình Nghiên cứu và Phát triển chung với các công ty khác."
+    },
+    {
+        "id": 160,
+        "label": 0,
+        "sentence1": "COLOMBO (Reuters) – Ít nhất năm người thiệt mạng và 11 người bị thương khi một kẻ đánh bom tự sát bị nghi là Hổ Tamil cho nổ tung mình bên trong một đồn cảnh sát ở thủ đô Sri Lanka hôm thứ Tư, phá vỡ hòa bình tương đối hơn hai năm.",
+        "sentence2": "Mọi người đã thiệt mạng trong các cuộc tấn công liều chết ở Tamil."
+    },
+    {
+        "id": 161,
+        "label": 0,
+        "sentence1": "Người ta đã quan sát thấy rằng ở những quốc gia trên thế giới nơi hình phạt tử hình vẫn còn thi hành, tỷ lệ tội phạm, đặc biệt là giết người, thấp rõ rệt so với các quốc gia đã bãi bỏ hình phạt tử hình.",
+        "sentence2": "Hình phạt tử hình là một biện pháp ngăn chặn tội phạm."
+    },
+    {
+        "id": 162,
+        "label": 1,
+        "sentence1": "Wal-Mart Stores đã yêu cầu tòa phúc thẩm liên bang Hoa Kỳ xem xét lại lệnh của thẩm phán phê chuẩn tình trạng khởi kiện tập thể đối với một vụ kiện phân biệt giới tính.",
+        "sentence2": "Thẩm phán chấp nhận phân biệt giới tính."
+    },
+    {
+        "id": 163,
+        "label": 1,
+        "sentence1": "Romano Prodi sẽ gặp Tổng thống Hoa Kỳ George Bush với tư cách là chủ tịch của ủy ban châu Âu.",
+        "sentence2": "Romani Prodi là Tổng thống Mỹ."
+    },
+    {
+        "id": 164,
+        "label": 0,
+        "sentence1": "Cảnh sát cho biết Thompson, một nhà báo nổi loạn có phong cách 'gonzo' đã ném ra bất kỳ sự giả vờ khách quan nào và coi nhà văn sống khó khăn này như một biểu tượng phản văn hóa, đã tự bắn chết mình tại nhà ở Colorado vào tối Chủ nhật, cảnh sát cho biết.",
+        "sentence2": "Báo chí 'gonzo' của Thompson ném tính khách quan ra ngoài cửa sổ."
+    },
+    {
+        "id": 165,
+        "label": 0,
+        "sentence1": "Ahern, người đã tới Tokyo để tham dự hội nghị thượng đỉnh EU-Nhật Bản vào ngày hôm qua, sẽ tham khảo ý kiến của các nhà lãnh đạo EU khác qua điện thoại vào cuối tuần này trong nỗ lực tìm kiếm một ứng cử viên đã được thống nhất.",
+        "sentence2": "Một hội nghị thượng đỉnh giữa châu Âu và Nhật Bản đang diễn ra tại thủ đô Japanise."
+    },
+    {
+        "id": 166,
+        "label": 1,
+        "sentence1": "Tướng Miguel Maza Marquez, Giám đốc Cơ quan An ninh Hành chính Colombia (DAS), hôm nay xác nhận sự tham gia của nước ngoài trong vụ ám sát Luis Carlos Galan, thượng nghị sĩ và ứng cử viên tổng thống của đảng Tự do, vào ngày 18 tháng 8 tại Bogota.",
+        "sentence2": "Tướng Miguel Maza Marquez tham gia vụ ám sát Luis Carlos Galan."
+    },
+    {
+        "id": 167,
+        "label": 1,
+        "sentence1": "Ước tính tốt nhất hiện nay về số lượng gấu trúc khổng lồ trong tự nhiên là khoảng 1.100 cá thể sống trong tối đa 32 quần thể riêng biệt, chủ yếu ở tỉnh Tứ Xuyên của Trung Quốc, nhưng cũng có ở các tỉnh Thiểm Tây và Cam Túc.",
+        "sentence2": "Có 32 con gấu trúc trong tự nhiên ở Trung Quốc."
+    },
+    {
+        "id": 168,
+        "label": 1,
+        "sentence1": "Đã có rất nhiều lo ngại về sự gia tăng của vi khuẩn kháng thuốc.",
+        "sentence2": "Vi khuẩn đang chiến thắng trong cuộc chiến chống lại thuốc kháng sinh."
+    },
+    {
+        "id": 169,
+        "label": 1,
+        "sentence1": "Compuware tuyên bố rằng Allan Tortorice và Jim Hildner nằm trong số một số nhân viên cũ đã tiết lộ bí mật thương mại sau khi họ chuyển đến IBM.",
+        "sentence2": "Bí mật thương mại đã bị đánh cắp."
+    },
+    {
+        "id": 170,
+        "label": 0,
+        "sentence1": "Cùng mở rộng với khu đô thị Jakarta Raya, nó nằm ở cửa sông Ciliwung (sông Liwung) trên bờ biển phía tây bắc của Java.",
+        "sentence2": "Jakarta nằm ở cửa sông Ciliwung (sông Liwung) trên bờ biển phía tây bắc của đảo Java."
+    },
+    {
+        "id": 171,
+        "label": 0,
+        "sentence1": "P. Prayong, giống như Kevala, thuộc giáo phái Phật giáo Nguyên thủy, đã chọn Ấn Độ thay vì các quốc gia đa số theo đạo Phật khác vì đây là nơi sinh của Đức Phật Gautama.",
+        "sentence2": "P. Prayong là một thành viên của Theravada."
+    },
+    {
+        "id": 172,
+        "label": 1,
+        "sentence1": "Bản ghi nhớ do Marc Allen Connelly (người đang là cố vấn chung của ủy ban dịch vụ tang lễ vào thời điểm đó) viết và gửi cho Dick McNeil (chủ tịch ủy ban tang lễ do Bush bổ nhiệm), nói rằng Connelly \"đã nhận được thông tin\" từ các quan chức bang Texas rằng hai trong số các ủy viên tang lễ đã làm việc cho SCI.",
+        "sentence2": "Marc Allen Connelly làm việc cho SCI."
+    },
+    {
+        "id": 173,
+        "label": 0,
+        "sentence1": "Tòa phúc thẩm Hoa Kỳ hôm thứ Sáu đã tuyên bố Dự luật Hội đồng California 1792 & 1793 là vi hiến, \"luật trò chơi điện tử cực kỳ bạo lực\" của California tìm cách cấm bán hoặc cho thuê trò chơi điện tử bạo lực cho trẻ vị thành niên. Thẩm phán liên bang Consuelo M. Callahan đã ra phán quyết rằng lệnh cấm toàn tiểu bang năm 2005, vẫn chưa được thi hành, vi phạm quyền của trẻ vị thành niên theo Tu chính án thứ nhất và thứ 14 của Hiến pháp Hoa Kỳ bởi vì ngay cả tình trạng lộn xộn trên màn hình phản cảm nhất, nội dung trò chơi điện tử cũng thể hiện quyền tự do ngôn luận không thể bị kiểm duyệt nếu không có lý do chính đáng.",
+        "sentence2": "Dự luật Hội đồng California 1792 & 1793 là luật chống lại các trò chơi điện tử cực đoan."
+    },
+    {
+        "id": 174,
+        "label": 0,
+        "sentence1": "Một nông dân tiếp xúc với những con bò mắc bệnh bò điên - cái gọi là bệnh bò điên - đã chết vì căn bệnh được coi là dạng bệnh ở người.",
+        "sentence2": "Bệnh não xốp bò là tên gọi khác của \"bệnh bò điên\"."
+    },
+    {
+        "id": 175,
+        "label": 0,
+        "sentence1": "BEIRUT, ngày 21 tháng 11 (Tân Hoa Xã) - Bộ trưởng Công nghiệp Lebanon và lãnh đạo Cơ đốc giáo Pierre Gemayel đã bị bắn chết trên một con phố ở ngoại ô Beirut hôm thứ Ba, kênh truyền hình al-Jazeera dẫn lời Bộ Nội vụ Lebanon cho biết.",
+        "sentence2": "Pierre Gemayel bị sát hại trên một con phố ở ngoại ô Beirut."
+    },
+    {
+        "id": 176,
+        "label": 0,
+        "sentence1": "Tổng thống Hoa Kỳ Barack Obama đã vạch ra định hướng tương lai cho chính quyền của ông, trong các sự kiện đánh dấu 100 ngày đầu tiên tại nhiệm của ông. Ông Obama phát biểu tại một cuộc họp ở tòa thị chính ở St Louis trước khi tổ chức một cuộc họp báo vào khung giờ vàng, được truyền hình trực tiếp trên hầu hết các mạng truyền hình Hoa Kỳ. Theo truyền thống, các nhà bình luận đã sử dụng cột mốc này để đánh giá những thành công và thất bại ban đầu của các tổng thống. Các cuộc thăm dò mới nhất cho thấy ông Obama tiếp tục nhận được mức độ ủng hộ cao.",
+        "sentence2": "Barack Obama đã làm Tổng thống Mỹ được 100 ngày."
+    },
+    {
+        "id": 177,
+        "label": 0,
+        "sentence1": "Blair đồng cảm với bất cứ ai đã mất mạng ở Iraq.",
+        "sentence2": "Blair rất tiếc cho bất kỳ ai đã mất mạng ở Iraq."
+    },
+    {
+        "id": 178,
+        "label": 1,
+        "sentence1": "Trong khi Bush đang ở trên không, Nhà Trắng đã được sơ tán, với nhiều nhân viên chạy khỏi cơ sở theo lệnh của các nhân viên Mật vụ.",
+        "sentence2": "Quân đội Mỹ sơ tán công dân Mỹ."
+    },
+    {
+        "id": 179,
+        "label": 1,
+        "sentence1": "Khoảng một nửa nằm dọc theo 20 dặm của Vịnh Santa Monica từ Đại lộ Topanga Canyon đến Bán đảo Palos Verdes.",
+        "sentence2": "Đường bờ biển của Vịnh Santa Monica dài 50 dặm."
+    },
+    {
+        "id": 180,
+        "label": 0,
+        "sentence1": "Chủ tịch của Walt Disney Co. cho biết trong một cuộc phỏng vấn được công bố hôm thứ Sáu rằng công viên giải trí Euro-Disney đang bị bao vây bên ngoài Paris đang hoạt động kém đến mức có thể phải đóng cửa trừ khi nhận được sự giúp đỡ sớm từ những người cho vay.",
+        "sentence2": "Euro-Disney là một công viên giải trí bên ngoài Paris."
+    },
+    {
+        "id": 181,
+        "label": 0,
+        "sentence1": "Bốn ngày đàm phán đã được tiến hành với việc Mỹ công bố đề nghị quan trọng đầu tiên đối với Triều Tiên kể từ khi George W Bush nhậm chức ba năm trước.",
+        "sentence2": "George W. Bush lên làm tổng thống Mỹ cách đây 3 năm."
+    },
+    {
+        "id": 182,
+        "label": 1,
+        "sentence1": "Nữ giáo sư hơi mệt, một cố vấn của Rita Levi-Montalcini đã cảnh báo tôi khi tôi chuẩn bị phỏng vấn Thượng nghị sĩ Life từng đoạt giải Nobel của Ý vào đêm trước sinh nhật lần thứ 100 của bà. \"Đừng làm cô ấy kiệt sức.\" Tôi đến để tìm nữ giáo sư, như mọi người đều biết đến bà, trong cửa hàng quần áo bên dưới văn phòng của bà ở Rome, trong một chiếc váy đen thanh lịch cài khuy ở cổ và một chiếc trâm vàng do chính bà thiết kế, mái tóc trắng được búi gọn gàng, đang xem xét các đường ray quần áo với sự chú ý gần gũi và sôi nổi.",
+        "sentence2": "Rita Levi-Montalcini là một chuyên gia toàn cầu về não bộ."
+    },
+    {
+        "id": 183,
+        "label": 1,
+        "sentence1": "Jean-Claude Trichet, Chủ tịch Ngân hàng Trung ương Châu Âu, đã nói rõ vào thứ Tư rằng ông sẽ phản đối những nỗ lực chính trị không chính đáng nhằm loại bỏ Antonio Fazio: Thống đốc Ngân hàng Ý, đang chìm trong tranh cãi về việc ông xử lý các vụ mua lại ngân hàng.",
+        "sentence2": "Antonio Fazio là cấp dưới của Jean-Claude Trichet."
+    },
+    {
+        "id": 184,
+        "label": 0,
+        "sentence1": "Ông nói rằng \"có bằng chứng cho thấy Cristiani có liên quan đến vụ sát hại sáu linh mục Dòng Tên\" xảy ra vào ngày 16 tháng 11 tại San Salvador.",
+        "sentence2": "Cristiani bị buộc tội ám sát sáu tu sĩ Dòng Tên."
+    },
+    {
+        "id": 185,
+        "label": 0,
+        "sentence1": "Các nhà sản xuất ô tô nước ngoài kiếm được tiền ở Nga. Những công ty như Daewoo, Ford, Renault, v.v. không thể sản xuất đủ nhanh.",
+        "sentence2": "Xe châu Âu bán ở Nga."
+    },
+    {
+        "id": 186,
+        "label": 0,
+        "sentence1": "Phương Tây thích tập trung vào các loài động vật có nguy cơ tuyệt chủng hơn là con người có nguy cơ tuyệt chủng. Voi châu Phi bị những kẻ săn trộm săn lùng, tước ngà và cất giấu. Số lượng ngà voi ở châu Phi giảm từ 1,2 triệu xuống còn 600.000 trong một thập kỷ cho đến khi CITES - Công ước về buôn bán quốc tế các loài có nguy cơ tuyệt chủng - cấm buôn bán ngà voi.",
+        "sentence2": "Một công ước quốc tế cấm buôn bán ngà voi."
+    },
+    {
+        "id": 187,
+        "label": 0,
+        "sentence1": "Nơi ở của các vị thần Hy Lạp là trên đỉnh núi Olympus, ở Thessaly.",
+        "sentence2": "Đỉnh Olympus ở Thessaly."
+    },
+    {
+        "id": 188,
+        "label": 0,
+        "sentence1": "Du thuyền Melvyn Percy đã quá chán ngấy với tiêu chuẩn dịch vụ khi chuẩn bị thuyền cho chuyến vượt Đại Tây Dương dài 3000 dặm đến mức ông quyết định thành lập công ty của riêng mình trên tàu Clyde để cung cấp cho các thủy thủ người Scotland lời khuyên chuyên nghiệp và hỗ trợ thiết thực. Minerva Rigging, có trụ sở tại Kip Marina, ngay phía nam Gourock, hiện có 5 nhân viên làm việc toàn thời gian và là đại lý Scotland cho Kemp, một trong những nhà sản xuất cột và trụ du thuyền hàng đầu châu Âu.",
+        "sentence2": "Melvyn Percy thành lập Minerva Rigging tại Kip Marina."
+    },
+    {
+        "id": 189,
+        "label": 0,
+        "sentence1": "Số người Đan Mạch phản đối đổi krone lấy đồng euro đã tăng nhẹ lên 35,3%, tăng từ 34,6% trong tháng 4, theo một cuộc thăm dò được Danske Bank công bố hôm thứ Năm.",
+        "sentence2": "Sự ra đời của đồng euro đã bị phản đối."
+    },
+    {
+        "id": 190,
+        "label": 1,
+        "sentence1": "QUAN ĐIỂM VỀ BOSNIA; HÒA BÌNH BALKANS KHÔNG THỂ KÉO DÀI",
+        "sentence2": "Bosnia nằm trong Nam Tư cũ."
+    },
+    {
+        "id": 191,
+        "label": 0,
+        "sentence1": "Texas Data Recovery cũng thành công trong việc khôi phục dữ liệu bị mất từ sổ ghi chép và máy tính xách tay, bất kể tuổi tác, hãng sản xuất hay kiểu máy.",
+        "sentence2": "Trong trường hợp xảy ra thảm họa, bạn có thể sử dụng Phục hồi dữ liệu Texas và bạn sẽ có khả năng khôi phục dữ liệu bị mất."
+    },
+    {
+        "id": 192,
+        "label": 1,
+        "sentence1": "Gần năm tháng sau, vào ngày 24 tháng 1 năm 1935, tàu chở khách MOHAWK bị chìm sau khi va chạm với tàu có động cơ TALISMAN của Na Uy và 45 người thiệt mạng.",
+        "sentence2": "Hơn 100 người thiệt mạng trong một vụ chìm phà."
+    },
+    {
+        "id": 193,
+        "label": 0,
+        "sentence1": "Để đánh dấu 20 năm ngày mất của John Lennon vào ngày mai (8/12), người vợ góa của ông, bà Yoko Ono, đã dựng các bảng quảng cáo ủng hộ kiểm soát súng đạn tại 3 thành phố lớn của Mỹ.",
+        "sentence2": "Yoko Ono là góa phụ của John Lennon."
+    },
+    {
+        "id": 194,
+        "label": 1,
+        "sentence1": "Tòa án ở Angers đã tuyên các bản án từ 4 tháng tù treo đến 28 năm đối với Philppe V., bị cáo chính. Tòa án phát hiện ra rằng anh ta, cùng với con trai Franck V. và vợ cũ của Franck, Patricia M., là một trong những kẻ xúi giục một đường dây tình dục lạm dụng 45 trẻ em, chủ yếu ở trong căn hộ của cặp đôi. Các vụ lạm dụng trẻ em từ 6 tháng đến 12 tuổi diễn ra tại một khu vực nghèo nàn và thiếu thốn của thị trấn Angers, miền tây nước Pháp. Nhiều bị cáo nghèo và sống bằng tiền trợ cấp và một số bị cáo bị thiểu năng trí tuệ. Khoảng 20 người trong số họ thừa nhận các cáo buộc, trong khi những người khác tuyên bố chưa bao giờ nghe nói về một chiếc nhẫn tình dục.",
+        "sentence2": "Franck V. đến từ Angers."
+    },
+    {
+        "id": 195,
+        "label": 0,
+        "sentence1": "Miller giải thích rằng lỗi chính tả đã được thực hiện trong một phần ghi chú của cô ấy không liên quan đến các cuộc phỏng vấn với Libby. Các ghi chú khác ghi lại 3 cuộc phỏng vấn với Libby, được thực hiện vào năm 2003, trong chuyên mục NYT của cô ấy, cô ấy đã viết: Ngày 23 tháng 6) ... Ông Libby lần đầu tiên nêu ra chủ đề về vợ của ông Wilson. Tôi viết trong ghi chú của mình, trong ngoặc đơn, \"Vợ làm việc ở văn phòng?\" Tôi nói với ông Fitzgerald rằng tôi tin rằng đây là lần đầu tiên tôi được biết vợ của ông Wilson có thể làm việc cho CIA",
+        "sentence2": "Judith Miller làm việc cho tờ New York Times."
+    },
+    {
+        "id": 196,
+        "label": 1,
+        "sentence1": "Dung lượng lưu trữ tăng lên không phải là tất cả những gì Microsoft sẽ cung cấp cho người dùng Hotmail của mình--họ cũng có thể mong đợi được bảo vệ chống vi-rút miễn phí.",
+        "sentence2": "Microsoft sẽ không cung cấp dung lượng lưu trữ tăng thêm cho người dùng của mình."
+    },
+    {
+        "id": 197,
+        "label": 0,
+        "sentence1": "Hình phạt tử hình đóng vai trò như một biện pháp ngăn chặn.",
+        "sentence2": "Hình phạt tử hình là một biện pháp ngăn chặn tội phạm."
+    },
+    {
+        "id": 198,
+        "label": 1,
+        "sentence1": "Mặc dù Bjork có buổi biểu diễn trực tiếp đầu tiên sau hai năm, đám đông 10.000 người chỉ bằng một nửa so với sức chứa của hội trường ở Makuhari, ngoại ô Tokyo.",
+        "sentence2": "10.000 người sống ở Tokyo."
+    },
+    {
+        "id": 199,
+        "label": 1,
+        "sentence1": "Tuần này, một tình trạng gọi là \"rối loạn lo âu xã hội\" đã gia nhập danh sách dài những yếu tố gây suy sụp trong cuộc sống - bao gồm béo phì, bất lực, trầm cảm và ám ảnh sợ hãi - mà người Mỹ từng coi là thách thức về ý chí và tính cách nhưng giờ đây có thể điều trị bằng cách uống một viên thuốc.",
+        "sentence2": "Nỗi ám ảnh là một nỗi sợ hãi tột độ về một điều hoặc tình huống cụ thể."
+    },
+    {
+        "id": 200,
+        "label": 0,
+        "sentence1": "Hai anh em điều hành một công ty xi mạ ở Bắc Hollywood đã đổ hàng ngàn gallon nước thải có pha xyanua vào hệ thống thoát nước của Los Angeles đã nhận tội hôm thứ Năm và phải ngồi tù vì xử lý và lưu trữ các vật liệu nguy hiểm một cách thiếu thận trọng.",
+        "sentence2": "Một công ty ở California bị buộc tội lưu trữ hóa chất thiếu thận trọng."
+    },
+    {
+        "id": 201,
+        "label": 0,
+        "sentence1": "Nhà làm phim người Ý, Fellini đã được trao giải Oscar danh dự cho thành tựu trọn đời. Ông mất ngày 31 tháng 10 năm 1993.",
+        "sentence2": "Một đạo diễn người Ý được trao giải Oscar danh dự."
+    },
+    {
+        "id": 202,
+        "label": 0,
+        "sentence1": "Vào ngày 27 tháng 1 năm 1756, nhà soạn nhạc Wolfgang Amadeus Mozart sinh ra ở Salzburg, Áo.",
+        "sentence2": "Wolfgang Amadeus Mozart sinh ra ở Salzburg."
+    },
+    {
+        "id": 203,
+        "label": 1,
+        "sentence1": "Các công nhân nghiên cứu của viện khảo cổ học Đức đã phát hiện ra một xác ướp trong lớp băng vĩnh cửu tại công trình khai quật ở Mông Cổ có niên đại khoảng 2.500 năm.",
+        "sentence2": "Thiếu nữ băng Altai gây ra tranh chấp lớn."
+    },
+    {
+        "id": 204,
+        "label": 0,
+        "sentence1": "Miller qua đời vào tối thứ Năm, vì suy tim sung huyết, tại nhà riêng ở Roxbury, Conn., Được bao bọc bởi gia đình, trợ lý của ông, Julia Bolus, cho biết hôm thứ Sáu.",
+        "sentence2": "Miller qua đời vào tối thứ Năm vì suy tim, xung quanh là các thành viên trong gia đình."
+    },
+    {
+        "id": 205,
+        "label": 1,
+        "sentence1": "Mặc dù ông có đủ cơ sở ủng hộ để có thể tạo ra một phong trào bất tuân dân sự quy mô lớn, nhưng một số nhà phân tích cho rằng chiến dịch của ông cùng lắm sẽ là một cái gai đối với ông Calderon.",
+        "sentence2": "Ông Calderon có thể tạo ra một phong trào bất tuân dân sự quy mô lớn."
+    },
+    {
+        "id": 206,
+        "label": 1,
+        "sentence1": "NEW YORK – Cướp biển Somali đã tấn công và làm hư hại một tàu Mỹ chở viện trợ nhân đạo hôm thứ Ba, nhưng con tàu và thủy thủ đoàn vẫn an toàn dưới sự hộ tống của Hải quân, quân đội và công ty vận chuyển cho biết. Các quan chức cho biết, những tên cướp biển đã bắn lựu đạn phóng tên lửa và vũ khí tự động vào Liberty Sun khi nó chở lương thực cho các quốc gia châu Phi đang bị nạn đói tàn phá. Liberty Maritime Corp cho biết con tàu đang trên đường từ Houston đến Mombasa, Kenya, với khoảng 20 thành viên thủy thủ đoàn. .",
+        "sentence2": "Cướp biển làm hỏng tàu Liberty Maritime."
+    },
+    {
+        "id": 207,
+        "label": 1,
+        "sentence1": "Bea Arthur và tôi gặp nhau lần đầu khi chúng tôi đóng 'Mame' cùng nhau vào năm 1965. Cô ấy đã trở thành và vẫn là 'My Bosom Buddy' kể từ đó. Tôi vô cùng đau buồn trước sự ra đi của cô ấy, nhưng cũng nhẹ nhõm vì cô ấy đã thoát khỏi nỗi đau. Tôi đã nói chuyện với Matt, con trai của cô ấy, ngày hôm qua và tôi biết rằng thời gian của cô ấy sắp đến. Cô ấy là một nghệ sĩ biểu diễn hiếm có và độc đáo, đồng thời là một người bạn thân, rất thân. Arthur đã qua đời tại nhà riêng vào thứ Bảy ở tuổi 86. Angela Lansbury đang xuất hiện trong sự hồi sinh hiện tại của Blithe Spirit, bắt đầu các buổi biểu diễn xem trước vào Thứ Năm, ngày 26 tháng 2 năm 2009 và chính thức khai mạc vào Chủ nhật, ngày 15 tháng 3 năm 2009 tại Nhà hát Shubert (225 Phố 44 Tây).",
+        "sentence2": "Nữ diễn viên Angela Lansbury năm nay 86 tuổi."
+    },
+    {
+        "id": 208,
+        "label": 1,
+        "sentence1": "Cô gái được tìm thấy ở Drummondville.",
+        "sentence2": "Drummondville chứa cô gái."
+    },
+    {
+        "id": 209,
+        "label": 1,
+        "sentence1": "Đây là một dạng bài tập về nhà từ Hội nghị thượng đỉnh Halifax năm ngoái. Các cuộc thảo luận đã diễn ra về cách hợp lý hóa và điều phối các hoạt động khác nhau của các tổ chức quốc tế.",
+        "sentence2": "Cải cách tài chính đã được đề xuất tại hội nghị thượng đỉnh G7 ở Halifax."
+    },
+    {
+        "id": 210,
+        "label": 0,
+        "sentence1": "Đối với những phụ nữ kiếm được 22.000 bảng một năm, tổng số tiền lương tích lũy sau 6 tháng nghỉ thai sản sẽ chỉ là 5.300 bảng ở Anh và 5.850 bảng ở Ireland. Quyền lợi ở Đức cũng sẽ tương đối thấp, ở mức 5.900, cùng với ở Pháp, Tây Ban Nha và Hà Lan, tất cả đều ở mức 6.750. Ở đầu kia của thang đo, tiền lương nhận được sau sáu tháng nghỉ phép ở Ý sẽ là 9.150 trong khi ở Đan Mạch và Na Uy, nó sẽ lên tới 11.000.",
+        "sentence2": "Nghỉ thai sản khác nhau ở châu Âu."
+    },
+    {
+        "id": 211,
+        "label": 0,
+        "sentence1": "Tờ báo lớn nhất ở Na Uy, Verdens Gang, in một lá thư do Joe Harrington và tôi viết cho biên tập viên.",
+        "sentence2": "Verdens Gang là một tờ báo của Na Uy."
+    },
+    {
+        "id": 212,
+        "label": 0,
+        "sentence1": "Spirou được tạo ra vào năm 1938 bởi Rob-Vel, người đã bán bản quyền cho nhà xuất bản Dupuis vào đầu những năm 40. Các nghệ sĩ khác như Jije (Joseph Gillain) đã chăm sóc tính năng này.",
+        "sentence2": "Spirou được tạo ra bởi Rob-Vel."
+    },
+    {
+        "id": 213,
+        "label": 1,
+        "sentence1": "Zahi Hawass, nhà khảo cổ học lỗi lạc của Ai Cập, đã tiết lộ những cổ vật đầu tiên có thể dẫn đến việc khám phá ra nơi an nghỉ của Cleopatra và Marc Antony. Đoàn thám hiểm đã tìm thấy những tấm bùa hộ mệnh, 22 đồng xu bằng đồng đúc hình Cleopatra và tên của bà, một bức tượng hoàng gia, một chiếc mặt nạ thạch cao tuyết hoa giống Marc Antony, và một bức tượng bán thân của Cleopatra. Hawass nói: “Nếu bạn nhìn vào khuôn mặt của Mark Antony, nhiều người tin rằng anh ta có vết nứt này trên cằm và đó là lý do tại sao tôi nghĩ đây có thể là Mark Antony. \"Theo tôi, nếu ngôi mộ này được tìm thấy, nó sẽ là một trong những khám phá quan trọng nhất của thế kỷ 21 vì tình yêu giữa Cleopatra và Mark Antony, và vì câu chuyện buồn về cái chết của họ. Đây là nơi hoàn hảo để họ được cất giấu\", Hawass nói.",
+        "sentence2": "Cleopatra và Marc Antony sống ở Ai Cập."
+    },
+    {
+        "id": 214,
+        "label": 0,
+        "sentence1": "Giám đốc Truyền hình Công cộng Nga Vladislav Listyev bị một tay súng lạ mặt bắn vào tim bên ngoài nhà riêng ở Moscow. Cuộc tấn công có liên quan đến những người phản đối lệnh cấm quảng cáo mà anh ấy đã đề xuất cho kênh truyền hình.",
+        "sentence2": "Vladislav Listyev bị ám sát ở Moscow."
+    },
+    {
+        "id": 215,
+        "label": 1,
+        "sentence1": "Toshiba, cùng với NEC Corp. và Sanyo Electric Co. Ltd., đang quảng bá công nghệ có tên HD DVD trong khi Sony, cùng với Samsung Electronics Co. Ltd. và Matsushita Electric Industrial Co. Ltd. (nhà sản xuất các sản phẩm mang thương hiệu Panasonic), đã thúc đẩy Blu-ray.",
+        "sentence2": "Sản phẩm thương hiệu Panasonic được sản xuất bởi Samsung Electronics Co Ltd."
+    },
+    {
+        "id": 216,
+        "label": 0,
+        "sentence1": "Các quan chức bệnh viện cho biết trong cuộc đụng độ giữa lực lượng Israel và các tay súng, một người Palestine đã thiệt mạng và 10 người khác bị thương.",
+        "sentence2": "Một người Palestine thiệt mạng và những người khác bị thương."
+    },
+    {
+        "id": 217,
+        "label": 1,
+        "sentence1": "Nhưng thông điệp mà phần trình diễn của họ mang lại hầu hết là buồn bã và thô thiển. Chỉ sau ba tuần trên đường, một trong hai nghệ sĩ người Ý, Pippa Bacca, 33 tuổi, đã bị giết bởi một người lái xe mời cô đi nhờ. Thi thể trần truồng của cô được tìm thấy vào ngày 11 tháng 4 trong một bụi cây gần một ngôi làng ở Thổ Nhĩ Kỳ sau khi một nghi phạm dẫn các nhà điều tra đến hiện trường. Mặc dù nguyên nhân cái chết chính thức chưa được đưa ra nhưng chính quyền địa phương Thổ Nhĩ Kỳ cho biết bà Bacca đã bị cưỡng hiếp và bóp cổ.",
+        "sentence2": "Pippa Bacca là một nhà hoạt động vì hòa bình người Ý."
+    },
+    {
+        "id": 218,
+        "label": 1,
+        "sentence1": "Hãng thông tấn nhà nước MENA đưa tin, Ai Cập hôm thứ Năm đã chỉ trích mạnh mẽ tân Ngoại trưởng Israel Avigdor Lieberman vì nhận xét của ông rằng ông từ chối công nhận những nỗ lực hòa bình được khởi xướng vào năm 2007 tại thành phố Annapolis của Hoa Kỳ nhằm khôi phục các cuộc đàm phán hòa bình với người Palestine. Người phát ngôn Bộ Ngoại giao Ai Cập Hossam Zaki cho biết phát biểu của Lieberman là \"đáng tiếc\", đồng thời cho biết thêm \"nhận xét của ông ấy là đòn giáng đầu tiên vào các nỗ lực hòa bình của chính phủ mới của Israel.\"",
+        "sentence2": "Hossam Zaki là Ngoại trưởng mới của Israel."
+    },
+    {
+        "id": 219,
+        "label": 0,
+        "sentence1": "Khăn ăn, thiệp mời và giấy cũ đơn giản đắt hơn so với một tháng trước.",
+        "sentence2": "Chi phí giấy đang tăng lên."
+    },
+    {
+        "id": 220,
+        "label": 0,
+        "sentence1": "Tờ Daily Telegraph, tài sản quý giá nhất trong đế chế truyền thông đang sụp đổ của Lord Conrad Black, đã được bán cho cặp song sinh Barclay của Anh.",
+        "sentence2": "Điện báo hàng ngày được bán."
+    },
+    {
+        "id": 221,
+        "label": 0,
+        "sentence1": "Hai nhà ngoại giao Ấn Độ đã gặp tù nhân Ấn Độ đang đối mặt với cái chết ở Pakistan, Sarabjit Singh, hôm thứ Ba tại nhà tù Kot Lakhpat ở thành phố Lahore, miền đông Pakistan.",
+        "sentence2": "Các nhà ngoại giao Ấn Độ đã gặp một tù nhân Ấn Độ, tử tù, hôm thứ Ba."
+    },
+    {
+        "id": 222,
+        "label": 1,
+        "sentence1": "Được trả tự do vào năm 1995, Tyson trở lại với quyền anh, giành danh hiệu Hội đồng Quyền anh Thế giới vào năm 1996. Tuy nhiên, cùng năm đó, anh thua Evander Holyfield, và trong trận tái đấu năm 1997, Holyfield đã cắn vào tai anh, anh tạm thời bị cấm thi đấu quyền anh.",
+        "sentence2": "Năm 1996, Mike Tyson cắn tai Holyfield."
+    },
+    {
+        "id": 223,
+        "label": 1,
+        "sentence1": "Yêu cầu ngân sách cho năm tài chính 2005 của NIH là 28,8 tỷ đô la bao gồm 2 tỷ đô la cho Viện Khoa học Y khoa Tổng quát Quốc gia, mức tăng 3,4% và 1,1 tỷ đô la cho Trung tâm Tài nguyên Nghiên cứu Quốc gia và giảm 7,2% so với mức của năm tài chính 2004.",
+        "sentence2": "Một yêu cầu đã được giảm xuống còn 1,1 tỷ đô la"
+    },
+    {
+        "id": 224,
+        "label": 0,
+        "sentence1": "Bangladesh, một trong những quốc gia nghèo nhất thế giới, đã phải hứng chịu nạn hạn hán và nạn đói tàn khốc vào năm 1974, khiến 1,5 triệu người thiệt mạng. Trong khi cố gắng giúp đỡ những người dân làng đang chết đói, anh đã gặp một phụ nữ 21 tuổi tên là Sufia Begum, người đang phải gánh một khoản nợ nhỏ nhưng rất nặng nề, Yunus nhớ lại trong cuốn tự truyện của mình, \"Banker to the Poor.\"",
+        "sentence2": "1,5 triệu người đã thiệt mạng trong đợt hạn hán và nạn đói tàn phá năm 1974 tại Bangladesh."
+    },
+    {
+        "id": 225,
+        "label": 1,
+        "sentence1": "Tổ chức nhân đạo, Caritas, trích dẫn chi nhánh của mình ở Iraq, đã thông báo hôm nay, tại Đức, rằng một số bệnh viện ở Iraq, đặc biệt là Bệnh viện Saddam, được coi là bệnh viện lớn nhất ở Iraq, đã bị tấn công trong cuộc ném bom của Mỹ-Anh vào thủ đô Iraq.",
+        "sentence2": "Caritas thông báo rằng một số bệnh viện ở Iraq, (không bao gồm Bệnh viện Saddam) đã bị tấn công trong vụ pháo kích ở Baghdad."
+    },
+    {
+        "id": 226,
+        "label": 0,
+        "sentence1": "Một phương tiện của Liên Hợp Quốc đã bị tấn công ở tỉnh Kosovo của Serbia và ít nhất một cảnh sát dân sự đã thiệt mạng, Liên Hợp Quốc cho biết.",
+        "sentence2": "Một cảnh sát dân sự đã thiệt mạng."
+    },
+    {
+        "id": 227,
+        "label": 0,
+        "sentence1": "Kết quả quay số thứ Ba của trò chơi Superenalotto của Ý đã trao giải thưởng lớn nhất từng giành được trong một trò chơi cá cược ở Ý. Người chiến thắng duy nhất của giải thưởng loại đầu tiên (6 con số được đoán) sẽ nhận được số tiền, bao gồm cả giải độc đắc từ các lần quay thưởng chưa trúng trước đó, trị giá €72.090.405,19 (93 triệu đô la Mỹ). Số tiền thưởng sẽ được nhận đầy đủ mà không bị đánh thuế thêm, vì thuế đánh vào các giải thưởng loại đó được Nhà nước Ý lấy theo tỷ lệ cố định từ số tiền trả cho việc đặt cược.",
+        "sentence2": "Superenalotto đã trao giải thưởng trị giá hơn 72 triệu euro."
+    },
+    {
+        "id": 228,
+        "label": 1,
+        "sentence1": "Cơ quan Năng lượng Quốc tế gồm 26 thành viên cho biết hôm thứ Sáu rằng các nước thành viên sẽ giải phóng dầu để giúp giảm bớt cuộc khủng hoảng nhiên liệu ở Mỹ do cơn bão Katrina gây ra.",
+        "sentence2": "Một cơ quan dầu mỏ quốc tế sẽ cung cấp 60 triệu thùng dầu và xăng ra thị trường."
+    },
+    {
+        "id": 229,
+        "label": 0,
+        "sentence1": "Ông Brown đã bác bỏ lời đe dọa của người đồng cấp, Bộ trưởng Ngoại thương Wu Yi, rằng nếu nỗ lực của Trung Quốc tham gia Hiệp định chung về Thuế quan và Thương mại (GATT) vào cuối năm nay không thành công, Bắc Kinh sẽ không còn bị ràng buộc bởi các cam kết kinh tế và thương mại trước đây.",
+        "sentence2": "Wu Yi là Bộ trưởng Ngoại thương của Trung Quốc."
+    },
+    {
+        "id": 230,
+        "label": 1,
+        "sentence1": "Các cuộc tấn công mới nhất nhắm vào đại sứ quán Mỹ và văn phòng công tố viên hàng đầu ở thủ đô của Uzbekistan.",
+        "sentence2": "Vụ đánh bom khủng bố hôm qua làm 2 người thiệt mạng tại cổng Đại sứ quán Israel ở thủ đô Uzbekistan."
+    },
+    {
+        "id": 231,
+        "label": 0,
+        "sentence1": "Evans Paul, thị trưởng ủng hộ Aristide của Port-au-Prince, cho biết ông đã được thông báo rằng số tiền này sẽ được chuyển đến các nhà vận động hành lang, chính trị gia và nhà báo người Mỹ để vận động chống lại sự trở lại của Aristide, tổng thống được bầu cử dân chủ đầu tiên của Haiti.",
+        "sentence2": "Evans Paul là thị trưởng của Port-au-Prince."
+    },
+    {
+        "id": 232,
+        "label": 1,
+        "sentence1": "Tại New York, dầu thô nhẹ Nymex giao tháng 7 đạt 42,38 USD/thùng vào thứ Ba",
+        "sentence2": "Dầu thô kỳ hạn tăng lên mức cao nhất mọi thời đại ở New York hôm thứ Ba, ở mức 42 đô la một thùng."
+    },
+    {
+        "id": 233,
+        "label": 1,
+        "sentence1": "Đồng thời, nhóm quyền kỹ thuật số của Ý, Electronic Frontiers Italy, đã yêu cầu chính phủ quốc gia điều tra Sony về việc sử dụng phần mềm chống vi phạm bản quyền.",
+        "sentence2": "Chính phủ Ý điều tra Sony."
+    },
+    {
+        "id": 234,
+        "label": 0,
+        "sentence1": "Các quan chức của Cảnh sát trưởng cho biết một robot có thể được đưa vào sử dụng ở Hạt Ventura, nơi đội gỡ bom đã đáp ứng hơn 40 cuộc gọi trong năm nay.",
+        "sentence2": "Cảnh sát sử dụng robot để xử lý bom."
+    },
+    {
+        "id": 235,
+        "label": 0,
+        "sentence1": "Schroder Investment Management đã cho biết ý định chấp nhận lời đề nghị mua lại nhà bán lẻ Marks & Spencer của Revival.",
+        "sentence2": "Sự hồi sinh cố gắng tiếp quản Tập đoàn Marks & Spencer."
+    },
+    {
+        "id": 236,
+        "label": 1,
+        "sentence1": "Thượng nghị sĩ Dick Lugar, thành viên cấp cao của Đảng Cộng hòa trong Ủy ban Đối ngoại Thượng viện, đã phát biểu ủng hộ dự luật, nói rằng lệnh cấm vận của Hoa Kỳ đối với Cuba đã \"không đạt được mục đích đã nêu là mang lại dân chủ cho người dân Cuba.\" Thượng nghị sĩ Bob Menendez của New Jersey, một đảng viên Đảng Dân chủ và là người Mỹ gốc Cuba thế hệ thứ hai, phản đối dự luật, cho rằng việc đi lại tự do của người châu Âu, người Canada và công dân của các nước Mỹ Latinh khác đã không giúp dân chủ hóa đảo quốc. Thượng nghị sĩ Menendez nói: “Chế độ đã không cởi mở. \"Ngược lại, nó đã sử dụng các nguồn lực để trở nên áp bức hơn.\"",
+        "sentence2": "Dick Lugar là thành viên của cộng đồng người Mỹ gốc Cuba."
+    },
+    {
+        "id": 237,
+        "label": 0,
+        "sentence1": "Cử tri California nhớ lại Gray Davis và bầu Arnold Schwarzenegger làm thống đốc của họ.",
+        "sentence2": "Cử tri California đã bãi bỏ Thống đốc Grey Davis và thay thế ông bằng Arnold Schwarzenegger."
+    },
+    {
+        "id": 238,
+        "label": 1,
+        "sentence1": "Hoa Kỳ đã trao quyền lực vào ngày 30 tháng 6 cho chính phủ lâm thời của Iraq do Liên Hợp Quốc và Paul Bremer, cựu thống đốc Iraq lựa chọn.",
+        "sentence2": "Liên Hợp Quốc chính thức chuyển giao quyền lực cho Iraq."
+    },
+    {
+        "id": 239,
+        "label": 1,
+        "sentence1": "Rolling Stone, một trong những ấn phẩm hàng đầu của ngành công nghiệp âm nhạc, đã phát hiện ra mình đã đưa tin sai sự thật lượm lặt được từ một bài viết trên Wikipedia. Ấn bản trực tuyến của tạp chí Rock & Roll Daily đã đăng một bài báo có tựa đề \"Halle Berry sắp hủy hoại danh tiếng...\" vào ngày 11 tháng 12, đưa tin về thông tin nữ diễn viên đã thông báo ý định phát hành một album nhạc kịch. Câu chuyện nhanh chóng được Washington Post, All Headline News và các hãng thông tấn khác săn đón, háo hức đưa tin về bước đột phá của nữ diễn viên từng đoạt giải Oscar vào thế giới âm nhạc. Rắc rối duy nhất là, theo một trong những nhà sản xuất bị cáo buộc của album, Scott Storch, không có album nào như vậy... và anh ấy chắc chắn đã không sản xuất ba bài hát cho nó.",
+        "sentence2": "Halle Berry làm việc với Scott Storch."
+    },
+    {
+        "id": 240,
+        "label": 0,
+        "sentence1": "Kevin Whitaker, người đứng đầu văn phòng các vấn đề Cuba tại Bộ Ngoại giao, đã hai lần nói chuyện với Lazo về nỗ lực cấp thị thực cho con trai ông.",
+        "sentence2": "Kevin Whitaker là một nhà quản lý của Bộ Ngoại giao."
+    },
+    {
+        "id": 241,
+        "label": 0,
+        "sentence1": "Để hỗ trợ cho sự bác bỏ của Viện Đảo Trái đất, người sáng lập Greenpeace Don White đã đưa ra tuyên bố công khai sau đây - không may là mang tính tiên tri - vào ngày 18/8/93.",
+        "sentence2": "Don White là người sáng lập Greenpeace."
+    },
+    {
+        "id": 242,
+        "label": 1,
+        "sentence1": "Có vẻ như hệ thống đệm từ siêu dẫn đã sẵn sàng về mặt kỹ thuật để sử dụng thương mại như một hệ thống giao thông công suất lớn, tốc độ rất cao.",
+        "sentence2": "Maglev được sử dụng thương mại."
+    },
+    {
+        "id": 243,
+        "label": 1,
+        "sentence1": "Tôn giáo chính thức của Thái Lan là Phật giáo tuyên bố lòng trung thành của hầu hết người dân Thái Lan. Bản sắc văn hóa của họ dường như gắn liền với truyền thống Phật giáo gần như không thể tách rời. Người dân thực hành Phật giáo dân gian bao gồm và xây dựng hệ thống thờ cúng tinh thần.",
+        "sentence2": "Tôn giáo chính thức của Thái Lan là Phật giáo Theravada."
+    },
+    {
+        "id": 244,
+        "label": 1,
+        "sentence1": "Nhà sản xuất thép Tata Steel của Ấn Độ, thuộc Tập đoàn Tata, mua Tập đoàn thép khổng lồ Corus của Anh-Hà Lan với giá 6,7 tỷ bảng Anh (12 tỷ USD), biến nó trở thành nhà sản xuất thép lớn thứ năm thế giới. Chủ tịch Ratan Tata, 70 tuổi, xuất thân từ một trong những gia đình kinh doanh nổi tiếng nhất Ấn Độ, đã giành chiến thắng trong cuộc đua với Benjamin Steinbruch, 52 tuổi, một giám đốc điều hành nổi tiếng người Brazil, là giám đốc và chủ sở hữu chính của Companhia Siderurgica Nacional (CSN). Tata đã trả cho các nhà đầu tư 608 pence một cổ phiếu, trong khi giá chào bán cuối cùng của người Brazil trong một cuộc đấu giá của Hội đồng tiếp quản của Vương quốc Anh là 603 pence. Thỏa thuận này giúp tăng gấp ba lần công suất của Tata Steel lên gần 28 triệu tấn một năm. Tata: \"Đây là bước đầu tiên cho thấy rằng ngành công nghiệp Ấn Độ có thể bước ra khỏi bờ biển của mình để tiến vào thị trường quốc tế với tư cách là một người chơi toàn cầu.\" Corus, được tạo ra từ sự hợp nhất của British Steel và Hoogovens, hiện đang sử dụng 47.300 người trên toàn thế giới. Năm ngoái, công ty là nhà sản xuất thép lớn thứ chín trên toàn thế giới. Việc tiếp quản có thể bắt đầu một đợt hợp nhất trong lĩnh vực thép bị phân mảnh.",
+        "sentence2": "CSN sản xuất 28 triệu tấn thép mỗi năm."
+    },
+    {
+        "id": 245,
+        "label": 1,
+        "sentence1": "New York tự hào có số lượng tỷ phú lớn nhất, với 40 người cư trú tại Big Apple. Tỷ phú trẻ nhất thế giới là Hind Hariri, 22 tuổi, con gái của cựu Thủ tướng Lebanon Rafik Hariri bị ám sát.",
+        "sentence2": "Số lượng tỷ phú tăng lên."
+    },
+    {
+        "id": 246,
+        "label": 1,
+        "sentence1": "Tổng thư ký Liên Hợp Quốc Kofi Annan đã lưu ý rằng người dân Iraq đã bỏ phiếu với số lượng lớn trong cuộc bỏ phiếu ngày 30 tháng 1.",
+        "sentence2": "Kofi Annan được bầu trong cuộc bỏ phiếu ngày 30 tháng 1."
+    },
+    {
+        "id": 247,
+        "label": 0,
+        "sentence1": "Với việc Nam Carolina là bang quê hương của Jesse Jackson, cộng đồng người da đen có động cơ rất mạnh mẽ.",
+        "sentence2": "Jesse Jackson sinh ra ở Nam Carolina."
+    },
+    {
+        "id": 248,
+        "label": 1,
+        "sentence1": "NASA ước tính, hôm thứ Hai, rằng sẽ tốn 104 tỷ đô la để đưa các phi hành gia trở lại mặt trăng, vào năm 2018, trong một tên lửa mới kết hợp tàu con thoi với viên nang của thời NASA trước đó.",
+        "sentence2": "Thiết kế phương tiện không gian mới sử dụng các bộ phận tên lửa con thoi và viên nang kiểu Apollo."
+    },
+    {
+        "id": 249,
+        "label": 1,
+        "sentence1": "Hầu hết gỗ tròn thương mại được trồng ở Honduras.",
+        "sentence2": "Cây được trồng trong nước hoặc trong các chất khác ngoài đất."
+    },
+    {
+        "id": 250,
+        "label": 1,
+        "sentence1": "Arlene Blum là một người tiên phong huyền thoại theo bất kỳ thước đo nào. Bất chấp cơ sở leo núi của những năm 1970, bà đã dẫn đầu các đội phụ nữ đầu tiên leo lên thành công Mt. McKinley và Annapurna, đồng thời là người phụ nữ Mỹ đầu tiên thử lên Mt. Everest. Trong sự nghiệp phiêu lưu lâu dài của mình, cô đã đóng vai trò dẫn đầu trong hơn 20 cuộc thám hiểm và tạo dựng một vị trí cho phụ nữ trong lĩnh vực leo núi đầy nguy hiểm.",
+        "sentence2": "Một người phụ nữ thành công trong việc leo lên đỉnh Everest một mình."
+    },
+    {
+        "id": 251,
+        "label": 0,
+        "sentence1": "Gabriel Garcia Marquez là tác giả của \"Trăm năm cô đơn\", \"Mùa thu của tộc trưởng\" và các tiểu thuyết khác.",
+        "sentence2": "Gabriel Garcia Marquez là một tiểu thuyết gia và nhà văn."
+    },
+    {
+        "id": 252,
+        "label": 1,
+        "sentence1": "Cuộc điều tra liên quan đến ông Lopez và ba cộng sự chủ yếu liên quan đến những nghi ngờ về hành vi trộm cắp bí mật có hệ thống.",
+        "sentence2": "Bảy giám đốc điều hành khác của GM đã rời đi với Lopez."
+    },
+    {
+        "id": 253,
+        "label": 0,
+        "sentence1": "Chế độ ăn giàu kali từ trái cây và rau quả trong suốt cuộc đời giúp duy trì khối lượng xương, do đó ngăn ngừa mất xương có thể dẫn đến loãng xương.",
+        "sentence2": "Chế độ ăn uống cung cấp kali ngăn ngừa loãng xương."
+    },
+    {
+        "id": 254,
+        "label": 1,
+        "sentence1": "Monica Meadows, một người mẫu 22 tuổi đến từ Atlanta, đã bị bắn vào vai trên một toa tàu điện ngầm ở thành phố New York.",
+        "sentence2": "Monica Meadows, 23 tuổi, bị bắn vào vai khi đang đi tàu điện ngầm ở thành phố New York"
+    },
+    {
+        "id": 255,
+        "label": 0,
+        "sentence1": "Phish tan rã sau buổi hòa nhạc cuối cùng ở Vermont vào ngày 15 tháng 8",
+        "sentence2": "Ban nhạc rock Phish tổ chức buổi hòa nhạc cuối cùng ở Vermont."
+    },
+    {
+        "id": 256,
+        "label": 0,
+        "sentence1": "Các kế hoạch đang được vạch ra để xây dựng một bản sao hoạt động trị giá 3,3 triệu bảng của con thuyền đã đưa Charles Darwin đi vòng quanh thế giới tại Milford Haven ở Pembrokeshire. Việc gây quỹ cho dự án, đánh dấu kỷ niệm 200 năm ngày sinh của Darwin vào năm 2009, đang được tiến hành. Mục đích là chế tạo một con tàu có khả năng đi biển giống hệt HMS Beagle ở bên ngoài, nhưng có nội thất hiện đại. Darwin, người đã chỉ ra cách chọn lọc tự nhiên có thể giải thích sự tiến hóa, đã đi thuyền trên tàu Beagle trong khoảng thời gian từ 1831-1836.",
+        "sentence2": "Charles Darwin đã thực hiện một chuyến đi trên con tàu có tên HMS Beagle."
+    },
+    {
+        "id": 257,
+        "label": 0,
+        "sentence1": "Tác phẩm được tìm kiếm nhiều nhất và món đồ đắt nhất là bức tượng bán thân bằng đồng của Spencer Tracy mà Hepburn đã tạo ra vào những năm 1960.",
+        "sentence2": "Mặt hàng bán chạy nhất là tượng bán thân bằng đồng do Hepburn làm vào những năm 1960 của người tình là diễn viên Spencer Tracy của bà."
+    },
+    {
+        "id": 258,
+        "label": 1,
+        "sentence1": "Hadley cho biết Jordan được chọn làm nơi diễn ra cuộc gặp giữa Bush và al-Maliki vì quốc gia này ủng hộ chính phủ đoàn kết ở Iraq và thực tế là Bush sẽ có mặt trong khu vực.",
+        "sentence2": "Bush sẽ gặp al-Maliki ở Hadley."
+    },
+    {
+        "id": 259,
+        "label": 0,
+        "sentence1": "Một quan chức cấp cao của liên minh ở Iraq cho biết thi thể được cảnh sát quân sự Mỹ tìm thấy ở phía tây Baghdad, dường như đã bị ném ra khỏi một chiếc xe.",
+        "sentence2": "Một thi thể đã được cảnh sát quân sự Hoa Kỳ tìm thấy."
+    },
+    {
+        "id": 260,
+        "label": 0,
+        "sentence1": "Oqueli đã bay đến Nicaragua để tham gia một phái đoàn Xã hội chủ nghĩa quốc tế, phái đoàn sẽ quan sát chiến dịch bầu cử Nicaragua.",
+        "sentence2": "Một cuộc vận động bầu cử đang được tổ chức ở Nicaragua."
+    },
+    {
+        "id": 261,
+        "label": 1,
+        "sentence1": "JERUSALEM (AP) - Trong cao trào thiêng liêng trong 22 năm làm giáo hoàng của mình, Giáo hoàng John Paul II hôm thứ Ba đã bắt đầu chuyến thăm chính thức đầu tiên của một giáo hoàng Công giáo La mã đến Israel, thực hiện ước mơ của ông là đến thăm vùng đất nơi Chúa Kitô đã sinh ra và chết đi.",
+        "sentence2": "Giáo hoàng John Paul II sinh ra ở Ba Lan."
+    },
+    {
+        "id": 262,
+        "label": 0,
+        "sentence1": "Aeschylus sinh năm 525 trước Công nguyên, và trải qua tuổi trẻ của mình với tư cách là một người lính trong quân đội Athen. Ông viết Người Ba Tư khi ông 53 tuổi, nhưng đây là tác phẩm sớm nhất còn sót lại của ông.",
+        "sentence2": "Người Ba Tư được viết bởi Aeschylus."
+    },
+    {
+        "id": 263,
+        "label": 0,
+        "sentence1": "Ý định của Croatia thậm chí còn rắc rối hơn vì biên giới lãnh hải giữa Slovenia và Croatia vẫn chưa được thiết lập. Tranh chấp về biên giới này bắt đầu vào năm 1991 khi cả hai quốc gia giành được độc lập.",
+        "sentence2": "Có tranh chấp lãnh hải."
+    },
+    {
+        "id": 264,
+        "label": 1,
+        "sentence1": "Triển vọng cung cấp xăng dầu do cơn bão Katrina đã cải thiện phần nào vào ngày hôm qua, khi các chính phủ Hoa Kỳ và Châu Âu đồng ý giải phóng 2 triệu thùng dầu mỗi ngày và các sản phẩm tinh chế từ kho dự trữ của họ.",
+        "sentence2": "60 triệu thùng dầu và xăng sẽ được cung cấp ra thị trường."
+    },
+    {
+        "id": 265,
+        "label": 1,
+        "sentence1": "Vụ ám sát bà Bhutto hôm thứ Năm đã đẩy đất nước Pakistan vào tình thế mà nhiều người cho là khủng hoảng, với các cuộc biểu tình bạo lực khắp cả nước. Các quan chức nói rằng bạo lực cũng đã gây thiệt hại hàng chục triệu đô la. Hầu hết các trường hợp tử vong xảy ra ở tỉnh Sindh phía nam, là thành trì chính trị của bà Bhutto. Tình hình an ninh ngày càng tồi tệ đã khiến Tổng thống Musharraf hôm thứ Bảy ra lệnh cho các chỉ huy an ninh của ông đối phó kiên quyết với những người biểu tình bạo lực.",
+        "sentence2": "Musharraf đã ra lệnh cho những kẻ bạo loạn có hành động kiên quyết chống lại lực lượng an ninh."
+    },
+    {
+        "id": 266,
+        "label": 0,
+        "sentence1": "Năm 1865, John Wilkes Booth, kẻ ám sát Tổng thống Abraham Lincoln, bị quân đội liên bang bao vây gần Bowling Green, Va., và bị giết.",
+        "sentence2": "John Wilkes Booth đã giết Tổng thống Abraham Lincoln."
+    },
+    {
+        "id": 267,
+        "label": 1,
+        "sentence1": "Bức thư mà đài truyền hình Syracuse News 10 Now nhận được vẫn đang được phân tích, nhưng cảnh sát tin rằng nó được viết bởi Jiverly Wong, 41 tuổi, cảnh sát trưởng Joseph Zikuski cho biết tại một cuộc họp báo. Zikuski nói: “Chúng tôi không có lý do gì để tin rằng nó không phải (xác thực)”. \"Đó là một bằng chứng khác trong một câu đố rất phức tạp mà chúng tôi sẽ mất hàng tuần, hàng tháng để xác định chuyện gì đang xảy ra. Nó sẽ giúp ích cho chúng ta.\" Anh ta kết thúc bức thư, được viết ngay ngắn bằng chữ in hoa, trên một ghi chú ớn lạnh: \"Và chúc bạn một ngày tốt lành.\"",
+        "sentence2": "Jiverly Won là một cảnh sát trưởng."
+    },
+    {
+        "id": 268,
+        "label": 0,
+        "sentence1": "Kết quả là, bệnh loét dạ dày tá tràng đã chuyển từ một tình trạng mãn tính, thường xuyên gây tàn phế sang một tình trạng có thể chữa khỏi bằng một phác đồ điều trị ngắn bằng kháng sinh và các loại thuốc khác.",
+        "sentence2": "Thuốc kháng sinh được sử dụng chống loét dạ dày tá tràng."
+    },
+    {
+        "id": 269,
+        "label": 1,
+        "sentence1": "Trong lịch sử nghệ thuật, nghệ thuật thời tiền sử là tất cả các tác phẩm nghệ thuật được sản xuất trong các nền văn hóa tiền sử (tiền sử), bắt đầu ở đâu đó trong lịch sử địa chất rất muộn.",
+        "sentence2": "Nghệ thuật thời tiền sử được phát hiện ở Nam Phi"
+    },
+    {
+        "id": 270,
+        "label": 1,
+        "sentence1": "Thủ đô của Slovenia là Ljubljana, với 270.000 dân.",
+        "sentence2": "Slovenia có 270.000 dân."
+    },
+    {
+        "id": 271,
+        "label": 1,
+        "sentence1": "Một báo cáo mới chỉ ra rằng sự tham gia của phụ nữ vào quá trình ra quyết định ở quốc gia này là rất ít.",
+        "sentence2": "Phụ nữ ít được đại diện trong quốc hội."
+    },
+    {
+        "id": 272,
+        "label": 0,
+        "sentence1": "Tiền đạo Lee Trundle của Swansea đã đàm phán một hợp đồng béo bở về bản quyền hình ảnh với câu lạc bộ League One.",
+        "sentence2": "Lee Trundle đang kinh doanh với câu lạc bộ League One."
+    },
+    {
+        "id": 273,
+        "label": 0,
+        "sentence1": "Một chiếc Ford Escort GL đời 1975 màu xanh nhạt từng thuộc sở hữu của Giáo hoàng John Paul II đã được bán với giá 690.000 USD hôm thứ Bảy cho một triệu phú ở Houston, người cho biết ông dự định đặt nó trong một viện bảo tàng mà ông muốn xây dựng ở quê nhà.",
+        "sentence2": "Một triệu phú ở Houston mua chiếc Ford Escort của Giáo hoàng."
+    },
+    {
+        "id": 274,
+        "label": 0,
+        "sentence1": "Vào ngày 1 tháng 10 năm 2001, EU và các quốc gia khác đã giới thiệu tùy chọn cho chủ sở hữu vật nuôi đăng ký hộ chiếu Vật nuôi theo Chương trình Du lịch Vật nuôi (viết tắt là PETS), dành cho vật nuôi từ nước ngoài trở về Vương quốc Anh. Điều này thay thế hệ thống kiểm dịch bắt buộc 6 tháng cũ đối với tất cả vật nuôi trong nhà.",
+        "sentence2": "Năm 2001, EU giới thiệu hộ chiếu cho vật nuôi."
+    },
+    {
+        "id": 275,
+        "label": 0,
+        "sentence1": "Kozlowski và cựu giám đốc tài chính của công ty, Mark Swartz, đã bị kết án vào thứ Hai tới 25 năm tù.",
+        "sentence2": "Kozlowski đã bị kết án, hôm thứ Hai, với mức án lên tới 25 năm tù."
+    },
+    {
+        "id": 276,
+        "label": 1,
+        "sentence1": "Danny Kennedy, giám đốc chiến dịch Greenpeace, cho biết: \"Trách nhiệm chứng minh trong trường hợp trục xuất Scott Parkin thuộc về mặt đạo đức với Khối thịnh vượng chung, để chứng minh rằng anh ta là một mối nguy hiểm. Khi Chính phủ đưa ra luật chống khủng bố, họ đã hứa với công chúng rằng những luật này sẽ chỉ được sử dụng để đối phó với nguy cơ thực sự và hiện tại của một cuộc tấn công khủng bố, chứ không phải là cách tiếp cận toàn diện chống lại công dân. Hòa bình không phải là khủng bố. Hòa bình không phải là mối đe dọa đối với an ninh quốc gia. Không một chính phủ dân chủ nào nên trục xuất một công dân nước ngoài vì [nó] phản đối quan điểm chính trị của anh ta.\"",
+        "sentence2": "Giám đốc Greenpeace cho rằng hòa bình là khủng bố."
+    }
+]
