@@ -25,22 +25,6 @@ This repository contains inference scripts for various text classification tasks
    └── SST2_classifier/checkpoint-5682/
    ```
 
-3. **Prepare Data**
-   Place your JSON data files in the `data/` directory:
-   ```
-   data/
-   ├── cola.json
-   ├── mnli.json
-   ├── mrpc.json
-   ├── qnli.json
-   ├── qqp.json
-   ├── sst2.json
-   ├── vsfc_test.json
-   ├── vsmec.json
-   ├── vtoc.json
-   └── wnli.json
-   ```
-
 ## Usage
 
 ### Run All Tasks
