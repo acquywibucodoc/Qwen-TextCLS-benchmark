@@ -132,21 +132,6 @@ Running `main.py` generates `results/all_inference_summary.json`:
 └── results/                         # Output results
 ```
 
-## Supported Tasks
-
-| Task | Description | Labels |
-|------|-------------|---------|
-| COLA | Corpus of Linguistic Acceptability | acceptable, unacceptable |
-| MNLI | Multi-Genre Natural Language Inference | entailment, neutral, contradiction |
-| MRPC | Microsoft Research Paraphrase Corpus | equivalent, not_equivalent |
-| QNLI | Question Natural Language Inference | entailment, non_entailment |
-| QQP | Quora Question Pairs | duplicates, not_duplicates |
-| SST-2 | Stanford Sentiment Treebank | positive, negative |
-| VSFC | Vietnamese Sentiment Classification | negative, neutral, positive |
-| VSMEC | Vietnamese Sentiment and Emotion Classification | anger, disgust, enjoyment, fear, other, sadness, surprise |
-| VTOC | Vietnamese Topic Classification | 15 categories (Automobile, Business, Digital, etc.) |
-| WNLI | Winograd Natural Language Inference | entailment, non_entailment |
-
 ## Notes
 
 - All models use Qwen2.5 architecture with Vietnamese fine-tuning
